@@ -111,7 +111,7 @@ input:focus {
 	text-align: center;
 }
 
-.worker-slides-header {
+.workers-header {
 	display: block;
 	width: 100%;
 	height: 2em;
@@ -180,6 +180,14 @@ input:focus {
 		border: none;
 	}
 	
+	.header-slides {
+		width: 75vw;
+		height: 8vh;
+		margin: auto;
+		font-size: 1.5em;
+		font-variant: small-caps;
+	}
+	
 	.header-left-button {
 		position: absolute;
 		top: 0;
@@ -203,28 +211,24 @@ input:focus {
 		width: 4vh;
 		padding: .5em;
 	}
-	
-	.worker-header span {
-		font-size: 1.5em;
-		font-variant: small-caps;
-	}
 
- 	.worker-slides {
-		height: 92vh;
+ 	.workers {
+		height: 88vh;
 		width: 100vw;
+		padding: 1em .5em;
 	}
 	
-	.worker-slides-content {
+	.worker-content {
 		display: block;
-		width: 95%;
-		height: 90vh;
+		width: 100%;
+		height: 88vh;
 		margin: 0 auto;
 	}
 
 	.gpus-panel {
 		display: block;
 		width: 100%;
-		height: 72vh;
+		height: 67vh;
 		margin-top: 1vh;
 		overflow-y: auto;
 	}
@@ -232,50 +236,65 @@ input:focus {
 
 @media all and (orientation: landscape) {
 	.worker-header {
-		display: none;
+		position: relative;
+		height: 8vh;
+		line-height: 8vh;
+		text-align: center;
+		padding: .5em;
+		color: #000000;
+		margin: 0;
+		border: none;
+	}
+	
+	.header-slides {
+		width: 85vw;
+		height: 8vh;
+		margin: auto;
+		font-size: 1.5em;
+		font-variant: small-caps;
 	}
 	
 	.header-left-button {
 		position: absolute;
-		bottom: 0;
+		top: 0;
 		left: 0;
 		margin-left: 1em;
-		margin-bottom: 2vw;
-		height: 4vw;
-		width: 4vw;
+		margin-top: 2vh;
+		margin-bottom: 2vh;
+		height: 4vh;
+		width: 4vh;
 		padding: .5em;
-		z-index: 10;
 	}
 	
 	.header-right-button {
 		position: absolute;
-		bottom: 0;
+		top: 0;
 		right: 0;
 		margin-right: 1em;
-		margin-bottom: 2vw;
-		height: 4vw;
-		width: 4vw;
+		margin-top: 2vh;
+		margin-bottom: 2vh;
+		height: 4vh;
+		width: 4vh;
 		padding: .5em;
-		z-index: 10;
 	}
 	
-	.worker-slides {
+	.workers {
 		width: 100vw;
-		height: 100vh;
-		padding-top: 1em;
+		height: 92vh;
+		padding: 1em .5em;
 	}
 	
-	.worker-slides-content {
+	.worker-content {
 		display: block;
-		width: 95%;
-		height: 92vh;
+		width: 100%;
+		height: 86vh;
 		margin: 0 auto;
 	}
 
 	.gpus-panel {
 		display: block;
 		width: 100%;
-		height: 74vh;
+		height: 60vh;
 		margin-top: 1vh;
 		overflow-y: auto;
 	}
