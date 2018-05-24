@@ -1,0 +1,5 @@
+<div style="text-align:center;">
+  <p><strong>Total Hash</strong>: <%= @worker.totalHash %> Mh/s</p>
+  <p><strong>Live GPUs</strong>: <span <% if doesWorkerNeedRestart %>style="color:#880000;font-weight:700;"<% end %>><%= worker.minerInstance %></span>/<%= worker.numOfGPU %>&nbsp;&nbsp;&nbsp;<span <% if doesWorkerNeedRestart %>style="color:#880000;font-weight:700;"<% end %>><%= (worker.minerInstance.to_i / worker.numOfGPU.to_i * 100).to_i %>%</span></p>
+  <p>Rx/Tx: <%= @worker.rx %> / <%= @worker.tx %> kbps</p>
+</div>

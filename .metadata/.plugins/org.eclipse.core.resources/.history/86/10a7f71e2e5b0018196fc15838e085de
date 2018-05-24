@@ -1,0 +1,58 @@
+require 'rho/rhocontroller'
+require 'helpers/browser_helper'
+
+class MinerController < Rho::RhoController
+  include BrowserHelper
+
+  # GET /Miner
+  def index
+    @miners = Miner.find(:all)
+    render :back => '/app'
+  end
+
+  # GET /Miner/{1}
+  def show
+    @miner = Miner.find(@params['id'])
+    if @miner
+      render :action => :show, :back => url_for(:action => :index)
+    else
+      redirect :action => :index
+    end
+  end
+
+  # GET /Miner/new
+  def new
+    @miner = Miner.new
+    render :action => :new, :back => url_for(:action => :index)
+  end
+
+  # GET /Miner/{1}/edit
+  def edit
+    @miner = Miner.find(@params['id'])
+    if @miner
+      render :action => :edit, :back => url_for(:action => :index)
+    else
+      redirect :action => :index
+    end
+  end
+
+  # POST /Miner/create
+  def create
+    @miner = Miner.create(@params['miner'])
+    redirect :action => :index
+  end
+
+  # POST /Miner/{1}/update
+  def update
+    @miner = Miner.find(@params['id'])
+    @miner.update_attributes(@params['miner']) if @miner
+    redirect :action => :index
+  end
+
+  # POST /Miner/{1}/delete
+  def delete
+    @miner = Miner.find(@params['id'])
+    @miner.destroy if @miner
+    redirect :action => :index  
+  end
+end

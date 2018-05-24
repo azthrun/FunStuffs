@@ -1,0 +1,61 @@
+module WebRequestHelper
+  
+  TEXTHEADER = {:headers => {"Content-type" => "text/plain"}}
+  JSONHEADER = {:headers => {"Accept" => "application/json;"}}
+    
+  ETHOSDISTRO = "ethosdistro.com/?json=yes"
+
+  #TODO: Test IDs: b57258, 8d2305
+  
+  def hasNetwork
+    response = Rho::Network.get({:url => "http://www.google.com"}).merge(TEXTHEADER)
+    ret = response["status"].eql?("ok") ? true : false
+    ret
+  end
+  
+  def downloadRigStatus
+    if hasNetwork
+      requestUrl = "http://#{Settings.panelId}.#{ETHOSDISTRO}"
+      response = Rho::Network.get({:url => requestUrl}).merge(JSONHEADER)
+      Rho::Log.info(response.inspect, "RESPONSE ======================")
+
+      if response["status"].eql?("ok")
+        # Analyze Data
+        if response["body"].empty?
+          # Panel ID has no live rig
+          errorMsg = "Panel #{Settings.panelId} has no live rig"
+          Rho::WebView.executeJavascript("replacePage('/app/Settings/setup?error=#{errorMsg}');")
+        else
+          storeRigStatus(response["body"])
+          Rho::WebView.executeJavascript("replacePage('/app/Settings/home');")
+        end
+      else
+        # GET Request Error
+        
+      end
+    else
+      # No Internet Access
+      
+    end
+  end
+  
+  def storeRigStatus(data)
+    ret = false
+    begin
+      feed = Rho::JSON.parse("asd")
+      
+      # Panel overall data
+      overall = feed.reject {|k, v| k.eql?("rigs")}
+      Settings.set(Settings::PANELOVERALL, overall.to_json)
+      
+      # Miner data
+      rigs = feed["rigs"]
+      Miner.storeMinerStatus(rigs)
+      
+      ret = true
+    rescue
+      ret = false
+    end
+  end
+  
+end

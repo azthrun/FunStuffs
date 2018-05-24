@@ -1,0 +1,435 @@
+I 05/19/2018 01:29:25:820 00000254          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:29:25:827 00000254                 Sync| Thread shutdown
+I 05/19/2018 01:29:25:834 00003c98          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/19/2018 01:29:25:865 000022c4          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/19/2018 01:29:25:873 000022c4          RhoThreadQT| RHOQT stop
+I 05/19/2018 01:29:25:881 000022c4          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:29:25:887 000022c4          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:29:25:994 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:29:26:001 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:29:26:010 000024c4          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:29:26:024 000024c4          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:29:26:031 000024c4          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:29:26:037 000024c4          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:29:26:045 000022c4          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/19/2018 01:29:26:051 000022c4          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+:107 00003e3c              RhoRuby| require_compiled: erb
+I 05/19/2018 01:02:42:115 00003e3c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/index.erb
+I 05/19/2018 01:02:42:121 00003e3c                  APP| const_missing: Settings
+I 05/19/2018 01:02:42:126 00003e3c                  APP| load_model: Settings
+I 05/19/2018 01:02:42:131 00003e3c              RhoRuby| require_compiled: Settings/settings
+I 05/19/2018 01:02:42:136 00003e3c              RhoRuby| require_compiled: helpers/application_helper
+I 05/19/2018 01:02:42:143 00003e3c                  APP| model name: Settings
+I 05/19/2018 01:02:42:148 00003e3c                  APP| model class found
+I 05/19/2018 01:02:42:153 00003e3c                  APP| Settings : {"partition"=>:local, "property"=>{}}
+I 05/19/2018 01:02:42:159 00003e3c                  APP| init_db_sources
+I 05/19/2018 01:02:42:164 00003e3c                  APP| start_id: 40004
+I 05/19/2018 01:02:42:170 00003e3c                  APP| Migrate schema sources: {}
+I 05/19/2018 01:02:42:176 00003e3c RHO Rho::RhoController| index layout
+I 05/19/2018 01:02:42:182 00003e3c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/19/2018 01:02:42:191 00003e3c           HttpServer| GC Start.
+I 05/19/2018 01:02:42:194 000006ac         QtMainWindow| WebView: URL changed to http://127.0.0.1:55140/app/index.erb
+I 05/19/2018 01:02:42:197 00003e3c           HttpServer| GC End.
+I 05/19/2018 01:02:42:204 00003e3c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/19/2018 01:02:42:215 00003e3c           HttpServer| Process URI: '/public/css/style.css'
+I 05/19/2018 01:02:42:221 00003e3c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/19/2018 01:02:42:229 00003e3c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/19/2018 01:02:42:237 00003e3c           HttpServer| Process URI: '/public/js/plugins/slick/slick.css'
+I 05/19/2018 01:02:42:266 00003e3c           HttpServer| Process URI: '/public/js/plugins/slick/slick.min.js'
+I 05/19/2018 01:02:42:273 00003e3c           HttpServer| Process URI: '/public/js/watcher.js'
+I 05/19/2018 01:02:42:281 00003e3c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/19/2018 01:02:42:331 000006ac               NewORM| calling useNewOrm
+I 05/19/2018 01:02:42:338 000006ac         QtMainWindow| Page load complete.
+I 05/19/2018 01:02:42:344 000006ac         QtMainWindow| WebView: loading...
+I 05/19/2018 01:02:42:350 00003e3c           HttpServer| Process URI: '/app/Settings/wait'
+I 05/19/2018 01:02:42:355 00003e3c                  APP| RHO serve: /app/Settings/wait
+E 05/19/2018 01:02:42:360 00003e3c              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/19/2018 01:02:42:364 00003e3c              RhoRuby| require_compiled: Settings/controller
+I 05/19/2018 01:02:42:369 00003e3c              RhoRuby| require_compiled: helpers/browser_helper
+I 05/19/2018 01:02:42:373 00003e3c              RhoRuby| require_compiled: helpers/web_request_helper
+I 05/19/2018 01:02:42:380 00003e3c                  APP| Params: {"mode"=>"setup"}
+I 05/19/2018 01:02:42:385 00003e3c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/wait.erb
+I 05/19/2018 01:02:42:390 00003e3c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/19/2018 01:02:42:395 00003e3c RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 2832
+I 05/19/2018 01:02:42:399 00003e3c           HttpServer| GC Start.
+I 05/19/2018 01:02:42:405 00003e3c           HttpServer| GC End.
+I 05/19/2018 01:02:42:426 000006ac         QtMainWindow| WebView: URL changed to http://127.0.0.1:55140/app/Settings/wait?mode=setup
+I 05/19/2018 01:02:42:454 000006ac               NewORM| calling useNewOrm
+I 05/19/2018 01:02:42:472 00003e3c           HttpServer| Process URI: '/favicon.ico'
+I 05/19/2018 01:02:42:473 000006ac         QtMainWindow| Page load complete.
+E 05/19/2018 01:02:42:477 00003e3c           HttpServer| The file /favicon.ico was not found
+I 05/19/2018 01:02:42:507 00003e3c           HttpServer| Process URI: '/public/images/loading.gif'
+I 05/19/2018 01:02:42:535 00003e3c           HttpServer| Process URI: '/app/Settings/downloadRigStatus'
+I 05/19/2018 01:02:42:539 00003e3c                  APP| RHO serve: /app/Settings/downloadRigStatus
+E 05/19/2018 01:02:42:545 00003e3c              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/19/2018 01:02:42:548 00003e3c                  Net| Method: GET;Url: http://www.google.com
+I 05/19/2018 01:02:42:553 00003e3c                  Net| initConnection-Internet handle present
+I 05/19/2018 01:02:42:832 00003e3c                  Net| Method: GET;Url: http://b57258.ethosdistro.com/?json=yes
+I 05/19/2018 01:02:42:838 00003e3c                  Net| initConnection-Internet handle present
+I 05/19/2018 01:02:43:001 00003e3c RESPONSE=====================| {"body"=>"{\"rigs\":{\"37f0f3\":{\"condition\":\"mining\",\"version\":\"1.3.1\",\"driver\":\"amdgpu\",\"miner\":\"claymore\",\"gpus\":\"5\",\"miner_instance\":\"5\",\"miner_hashes\":\"30.73 29.46 30.70 30.70 28.53\",\"bioses\":\"MS-V34114-F1 xxx-xxx-xxxx xxx-xxx-xxxx xxx-xxx-xxxx 113-C94031-M01\",\"meminfo\":\"GPU0:01.00.0:Radeon RX 580:MS-V34114-F1:Unknown Micron:GDDR5:Polaris10\\nGPU1:03.00.0:Radeon RX 580:xxx-xxx-xxxx:SK Hynix H5GQ8H24MJR:GDDR5:Polaris10\\nGPU2:04.00.0:Radeon RX 580:xxx-xxx-xxxx:Samsung K4G41325FE:GDDR5:Polaris10\\nGPU3:06.00.0:Radeon RX 580:xxx-xxx-xxxx:Samsung K4G41325FE:GDDR5:Polaris10\\nGPU4:08.00.0:Radeon RX 580:113-C94031-M01:Unknown Micron:GDDR5:Polaris10\",\"vramsize\":\"8 8 4 4 8\",\"drive_name\":\"Ultra USB 3.0 4C530001191227111170\",\"mobo\":\"970A-DS3P\",\"biosversion\":\"FD\",\"lan_chip\":\"Realtek Semiconductor Co., Ltd. RTL8111\\/8168\\/8411 PCI Express Gigabit Ethernet Controller (rev 0c)\",\"connected_displays\":null,\"ram\":\"4\",\"flags\":null,\"rack_loc\":\"\",\"ip\":\"192.168.1.188\",\"server_time\":1526709659,\"uptime\":\"244020\",\"miner_secs\":243949,\"rx_kbps\":\"0.13\",\"tx_kbps\":\"0.07\",\"load\":\"0.57\",\"cpu_temp\":\"37\",\"freespace\":2.1,\"hash\":150.12,\"pool\":\"pool-usa.ethosdistro.com:5001\",\"temp\":\"57.00 61.00 61.00 65.00 52.00\",\"powertune\":\"7 7 7 7 7\",\"voltage\":\"0.986 1.003 1.004 0.998 0.953\",\"watts\":\"110 111 111 113 133\",\"fanrpm\":\"2769 3852 3863 3836 3784\",\"core\":\"1150 1150 1150 1150 1050\",\"mem\":\"2150 2100 2100 2100 2050\"},\"37f10d\":{\"condition\":\"mining\",\"version\":\"1.3.1\",\"driver\":\"amdgpu\",\"miner\":\"claymore\",\"gpus\":\"3\",\"miner_instance\":\"3\",\"miner_hashes\":\"30.69 28.55 28.52\",\"bioses\":\"MS-V34114-F1 113-C94031-M01 113-C94031-M01\",\"meminfo\":\"GPU0:01.00.0:Radeon RX 580:MS-V34114-F1:Unknown Micron:GDDR5:Polaris10\\nGPU1:03.00.0:Radeon RX 580:113-C94031-M01:Unknown Micron:GDDR5:Polaris10\\nGPU2:04.00.0:Radeon RX 580:113-C94031-M01:Unknown Micron:GDDR5:Polaris10\",\"vramsize\":\"8 8 8\",\"drive_name\":\"Ultra USB 3.0 4C530001051225101320\",\"mobo\":\"970A-DS3P\",\"biosversion\":\"FD\",\"lan_chip\":\"Realtek Semiconductor Co., Ltd. RTL8111\\/8168\\/8411 PCI Express Gigabit Ethernet Controller (rev 0c)\",\"connected_displays\":null,\"ram\":\"4\",\"flags\":null,\"rack_loc\":\"\",\"ip\":\"192.168.1.118\",\"server_time\":1526709695,\"uptime\":\"192255\",\"miner_secs\":192191,\"rx_kbps\":\"0.14\",\"tx_kbps\":\"0.07\",\"load\":\"0.39\",\"cpu_temp\":\"27\",\"freespace\":2.1,\"hash\":87.76,\"pool\":\"pool-usa.ethosdistro.com:5001\",\"temp\":\"47.00 55.00 59.00\",\"powertune\":\"7 7 7\",\"voltage\":\"0.994 0.979 0.953\",\"watts\":\"110 126 126\",\"fanrpm\":\"2724 3699 3834\",\"core\":\"1150 1050 1050\",\"mem\":\"2150 2050 2050\"}},\"total_hash\":237.88,\"alive_gpus\":8,\"total_gpus\":8,\"alive_rigs\":2,\"total_rigs\":2,\"current_version\":\"1.3.1\",\"avg_temp\":56.435,\"capacity\":\"100.0\",\"per_info\":{\"claymore\":{\"hash\":238,\"per_alive_gpus\":8,\"per_total_gpus\":8,\"per_alive_rigs\":2,\"per_total_rigs\":2,\"per_hash-gpu\":\"29.8\",\"per_hash-rig\":\"119.0\",\"current_time\":1526709739}}}", "http_error"=>"200", "status"=>"ok", "headers"=>{"access-control-allow-origin"=>"*", "connection"=>"keep-alive", "content-type"=>"text/html; charset=UTF-8", "date"=>"Sat, 19 May 2018 06:02:42 GMT", "server"=>"nginx", "transfer-encoding"=>"chunked"}, :headers=>{"Accept"=>"application/json;"}}
+I 05/19/2018 01:02:43:010 00003e3c           HttpServer| GC Start.
+I 05/19/2018 01:02:43:019 00003e3c           HttpServer| GC End.
+I 05/19/2018 01:03:26:733 000006ac            RhodesApp| callAppActiveCallback
+I 05/19/2018 01:03:26:740 000006ac         AppCallbacks| addCommand: APP-DEACTIVATED
+I 05/19/2018 01:03:26:747 000006ac          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:03:26:753 000006ac          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:03:26:860 000006ac          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:03:26:867 000006ac          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:03:26:877 000006ac                  Net| Method: GET;Url: http://127.0.0.1:55140/system/deactivateapp
+I 05/19/2018 01:03:26:877 00001bf4          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:03:26:897 00001bf4          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:03:26:883 000006ac                  Net| initConnection-Internet handle present
+I 05/19/2018 01:03:26:904 00001bf4          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:03:26:918 00001bf4          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:03:26:924 00001bf4         AppCallbacks| APP-DEACTIVATED is received ++++++++++++++++++++++++++++
+I 05/19/2018 01:03:26:931 00001bf4         AppCallbacks| process command: APP-DEACTIVATED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/19/2018 01:03:26:914 00003e3c           HttpServer| Process URI: '/system/deactivateapp'
+I 05/19/2018 01:03:26:940 00001bf4         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/19/2018 01:03:26:961 00001bf4          RhoThreadQT| RHOQT wait
+I 05/19/2018 01:03:26:954 00003e3c                  APP| AppEvent Deactivated
+I 05/19/2018 01:03:26:968 00001bf4          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/19/2018 01:03:26:980 00001bf4          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/19/2018 01:03:26:978 000006ac                  Net| Method: GET;Url: http://127.0.0.1:55140/system/uidestroyed
+I 05/19/2018 01:03:26:995 000006ac                  Net| initConnection-Internet handle present
+I 05/19/2018 01:03:27:004 00003e3c           HttpServer| Process URI: '/system/uidestroyed'
+I 05/19/2018 01:03:27:011 00003e3c                  APP| AppEvent UIDestroyed
+I 05/19/2018 01:03:27:019 000006ac          RhoThreadQT| RHOQT stop
+I 05/19/2018 01:03:27:026 000006ac          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:03:27:033 000006ac          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:03:27:141 000006ac          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:03:27:148 000006ac          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:03:27:157 00001bf4          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:03:27:166 00001bf4          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:03:27:174 00001bf4          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:03:27:181 00001bf4          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:03:27:190 00001bf4         AppCallbacks| Thread shutdown
+I 05/19/2018 01:03:27:198 000006ac           HttpServer| Stopping server...
+I 05/19/2018 01:03:27:207 00003e3c            RhodesApp| RhodesApp thread shutdown
+I 05/19/2018 01:03:27:208 000006ac          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:03:27:214 00003e3c          GeoLocation| Destroying singleton instance.
+I 05/19/2018 01:03:27:221 000006ac          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:03:27:228 00003e3c                 Sync| Stopping Sync thread
+I 05/19/2018 01:03:27:242 00003e3c          RhoThreadQT| RHOQT stop
+I 05/19/2018 01:03:27:249 00003e3c          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:03:27:256 00003e3c          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:03:27:336 000006ac          RhoThreadQT| RHOQT stop
+I 05/19/2018 01:03:27:343 000006ac          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:03:27:349 000006ac          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:03:27:364 00003e3c          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:03:27:372 00003e3c          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:03:27:380 0000072c          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:03:27:394 0000072c          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:03:27:401 0000072c          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:03:27:408 0000072c          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:03:27:415 0000072c                 Sync| Thread shutdown
+I 05/19/2018 01:03:27:424 00003e3c          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/19/2018 01:03:27:457 000006ac          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/19/2018 01:03:27:464 000006ac          RhoThreadQT| RHOQT stop
+I 05/19/2018 01:03:27:472 000006ac          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:03:27:478 000006ac          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:03:27:588 000006ac          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:03:27:595 000006ac          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:03:27:604 00003650          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:03:27:620 00003650          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:03:27:627 00003650          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:03:27:635 00003650          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:03:27:644 000006ac          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/19/2018 01:03:27:651 000006ac          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/19/2018 01:27:28:337 000022c4            RhodesApp| New start params: -approot=C:/Users/zc13224/source/repos/MinerWatcher -rhodespath=C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62 
+I 05/19/2018 01:27:28:343 000022c4               QTMain| Running on : Windows 6.2 (Win 8) Application Compiled with QT Version :  5.1.1 Running with QT Version 5.1.1
+I 05/19/2018 01:27:28:347 000022c4               QTMain| 0 Paths
+I 05/19/2018 01:27:28:351 000022c4               QTMain| C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/platform/win32/RhoSimulator
+I 05/19/2018 01:27:28:355 000022c4               QTMain| Rhodes started
+I 05/19/2018 01:27:28:360 000022c4          RhoThreadQT| RHOQT CRhoThreadImpl cons-before InitializeCriticalSections
+I 05/19/2018 01:27:28:363 000022c4          RhoThreadQT| RHOQT CRhoThreadImpl cons-before InitializeCriticalSections
+I 05/19/2018 01:27:28:367 000022c4          RhoThreadQT| RHOQT CRhoThreadImpl cons-before InitializeCriticalSections
+I 05/19/2018 01:27:28:367 000024c4          RhoThreadQT| RHOQT wait
+I 05/19/2018 01:27:28:371 000021c8         AppCallbacks| Starting main routine...
+I 05/19/2018 01:27:28:372 000022c4            RhodesApp| Trying to get free listening port.
+I 05/19/2018 01:27:28:374 000024c4          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/19/2018 01:27:28:378 000021c8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/19/2018 01:27:28:382 000022c4            RhodesApp| Trying to bind of 0 port...
+I 05/19/2018 01:27:28:385 000024c4          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294967295
+I 05/19/2018 01:27:28:389 000021c8          RhoThreadQT| RHOQT wait
+I 05/19/2018 01:27:28:392 000022c4            RhodesApp| Got port to bind on: 57254
+I 05/19/2018 01:27:28:400 000021c8          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/19/2018 01:27:28:403 000022c4            RhodesApp| Free listening port: 57254
+I 05/19/2018 01:27:28:407 000021c8          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/19/2018 01:27:28:470 000022c4            RhodesApp| callAppActiveCallback
+I 05/19/2018 01:27:28:476 000022c4         AppCallbacks| addCommand: APP-ACTIVATED
+I 05/19/2018 01:27:28:482 000022c4          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:27:28:486 000022c4          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:27:28:591 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:27:28:598 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:27:28:603 000021c8          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:27:28:607 000022c4         AppCallbacks| addCommand: UI-CREATED
+I 05/19/2018 01:27:28:608 000021c8          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:27:28:614 000022c4          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:27:28:618 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:27:28:622 000022c4          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:27:28:626 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:27:28:636 000021c8         AppCallbacks| APP-ACTIVATED is received ++++++++++++++++++++++++++++
+I 05/19/2018 01:27:28:640 000021c8         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 05/19/2018 01:27:28:647 000021c8         AppCallbacks| UI-CREATED is received ++++++++++++++++++++++++++++
+I 05/19/2018 01:27:28:651 000021c8         AppCallbacks| m_uistate: 0
+I 05/19/2018 01:27:28:655 000021c8         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 05/19/2018 01:27:28:659 000021c8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/19/2018 01:27:28:664 000021c8          RhoThreadQT| RHOQT wait
+I 05/19/2018 01:27:28:669 000021c8          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/19/2018 01:27:28:673 000021c8          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/19/2018 01:27:28:733 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:27:28:738 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:27:28:745 000022c4           MainWindow| navigate: 'about:blank'
+I 05/19/2018 01:27:28:745 00003c98            RhodesApp| Starting RhodesApp main routine...
+I 05/19/2018 01:27:28:745 000021c8          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:27:28:750 000022c4         QtMainWindow| WebView: loading...
+I 05/19/2018 01:27:28:759 000021c8          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:27:28:770 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:27:28:765 000022c4         QtMainWindow| WebView: URL changed to about:blank
+I 05/19/2018 01:27:28:760 00003c98              RhoRuby| Init_RhoBlobs: C:/Users/zc13224/source/repos/MinerWatcher/rhosimulator/db/db-files
+I 05/19/2018 01:27:28:775 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:27:28:790 000021c8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/19/2018 01:27:28:787 00003c98              RhoRuby| require_compiled: RhoSystemApi
+I 05/19/2018 01:27:28:780 000022c4         QtMainWindow| Page load complete.
+I 05/19/2018 01:27:28:796 000021c8          RhoThreadQT| RHOQT wait
+I 05/19/2018 01:27:28:802 00003c98              RhoRuby| require_compiled: RhoApplicationApi
+I 05/19/2018 01:27:28:811 000021c8          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/19/2018 01:27:28:818 00003c98              RhoRuby| require_compiled: RhoNetworkApi
+I 05/19/2018 01:27:28:820 000021c8          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/19/2018 01:27:28:826 00003c98              RhoRuby| require_compiled: RhoDatabaseApi
+I 05/19/2018 01:27:28:837 00003c98              RhoRuby| require_compiled: RhoLogApi
+I 05/19/2018 01:27:28:842 00003c98              RhoRuby| require_compiled: RhoWebViewApi
+I 05/19/2018 01:27:28:847 00003c98              RhoRuby| require_compiled: RhoNativeToolbarApi
+I 05/19/2018 01:27:28:852 00003c98              RhoRuby| require_compiled: RhoNativeTabbarApi
+I 05/19/2018 01:27:28:857 00003c98              RhoRuby| require_compiled: RhoNotificationApi
+I 05/19/2018 01:27:28:863 00003c98              RhoRuby| require_compiled: RhoNativeMenubarApi
+I 05/19/2018 01:27:28:868 00003c98              RhoRuby| require_compiled: RhoTimerApi
+E 05/19/2018 01:27:28:873 00003c98              RhoRuby| require_compiled: error: can not find RhoConnectClient
+W 05/19/2018 01:27:28:878 00003c98          CExtManager| requireRubyFile cannot find file: RhoConnectClient
+I 05/19/2018 01:27:28:882 00003c98 RhoconnectClientManager| setRhoconnectClientImpl ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I 05/19/2018 01:27:28:886 00003c98              RhoRuby| require_compiled: digest
+I 05/19/2018 01:27:28:892 00003c98              RhoRuby| require_compiled: digest.so
+I 05/19/2018 01:27:28:901 00003c98              RhoRuby| require_compiled: rhoframework
+I 05/19/2018 01:27:28:907 00003c98              RhoRuby| require_compiled: rational
+I 05/19/2018 01:27:28:912 00003c98              RhoRuby| require_compiled: json
+I 05/19/2018 01:27:28:917 00003c98              RhoRuby| require_compiled: json/common
+I 05/19/2018 01:27:28:923 00003c98              RhoRuby| require_compiled: json/version
+I 05/19/2018 01:27:28:928 00003c98              RhoRuby| require_compiled: json/pure
+I 05/19/2018 01:27:28:933 00003c98              RhoRuby| require_compiled: json/pure/generator
+I 05/19/2018 01:27:28:944 00003c98              RhoRuby| require_compiled: rho/rhoapplication
+I 05/19/2018 01:27:28:951 00003c98              RhoRuby| require_compiled: rholang/localization_simplified
+I 05/19/2018 01:27:28:958 00003c98              RhoRuby| require_compiled: rho/rhomsg
+I 05/19/2018 01:27:28:965 00003c98              RhoRuby| require_compiled: rho/rhotabbar
+I 05/19/2018 01:27:28:970 00003c98              RhoRuby| require_compiled: rho/rhotoolbar
+I 05/19/2018 01:27:28:974 00003c98                  APP| Current locale: ; Country code: 
+I 05/19/2018 01:27:28:979 00003c98                  APP| Locilized file: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_
+I 05/19/2018 01:27:28:983 00003c98                  APP|    - load [C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_en]
+I 05/19/2018 01:27:28:987 00003c98              RhoRuby| require_compiled: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_en
+I 05/19/2018 01:27:28:993 00003c98                  APP| Locilized file: C:/Users/zc13224/source/repos/MinerWatcher/app/lang/lang_
+I 05/19/2018 01:27:28:998 00003c98                  APP| Locilized file: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_
+I 05/19/2018 01:27:29:002 00003c98                  APP|    - load [C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_en]
+I 05/19/2018 01:27:29:006 00003c98              RhoRuby| require_compiled: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_en
+I 05/19/2018 01:27:29:012 00003c98                  APP| Locilized file: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_
+I 05/19/2018 01:27:29:016 00003c98                  APP|    - load [C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_en]
+I 05/19/2018 01:27:29:020 00003c98              RhoRuby| require_compiled: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_en
+I 05/19/2018 01:27:29:026 00003c98              RhoRuby| require_compiled: indifferent_access
+I 05/19/2018 01:27:29:032 00003c98              RhoRuby| require_compiled: rho/rhosupport
+I 05/19/2018 01:27:29:038 00003c98              RhoRuby| require_compiled: rho/rhocontroller
+I 05/19/2018 01:27:29:046 00003c98              RhoRuby| require_compiled: rho/render
+I 05/19/2018 01:27:29:053 00003c98              RhoRuby| require_compiled: rho/rho
+I 05/19/2018 01:27:29:066 00003c98              RhoRuby| require_compiled: rho/rhoerror
+I 05/19/2018 01:27:29:071 00003c98              RhoRuby| require_compiled: rhodes
+I 05/19/2018 01:27:29:076 00003c98                  APP| Looking for RhoConnectClient
+I 05/19/2018 01:27:29:080 00003c98                  APP| RhoConnectClient found. do nothing
+E 05/19/2018 01:27:29:084 00003c98              RhoRuby| require_compiled: error: can not find rhodes_translator
+I 05/19/2018 01:27:29:088 00003c98              RhoRuby| require_compiled: rho/rhoviewhelpers
+I 05/19/2018 01:27:29:093 00003c98              RhoRuby| require_compiled: rho
+I 05/19/2018 01:27:29:098 00003c98                  APP| RHOSTUDIO_REMOTE_DEBUG=false
+I 05/19/2018 01:27:29:102 00003c98                  APP| RHOSTUDIO_REMOTE_HOST=
+I 05/19/2018 01:27:29:106 00003c98                  APP| RHOSTUDIO_REMOTE_PATH=
+I 05/19/2018 01:27:29:110 00003c98              RhoRuby| require_compiled: debugger
+I 05/19/2018 01:27:29:117 00003c98              RhoRuby| require_compiled: uri
+I 05/19/2018 01:27:29:122 00003c98              RhoRuby| require_compiled: uri/common
+I 05/19/2018 01:27:29:136 00003c98              RhoRuby| require_compiled: uri/generic
+I 05/19/2018 01:27:29:152 00003c98              RhoRuby| require_compiled: uri/ftp
+I 05/19/2018 01:27:29:158 00003c98              RhoRuby| require_compiled: uri/http
+I 05/19/2018 01:27:29:164 00003c98              RhoRuby| require_compiled: uri/https
+I 05/19/2018 01:27:29:168 00003c98              RhoRuby| require_compiled: uri/ldap
+I 05/19/2018 01:27:29:173 00003c98              RhoRuby| require_compiled: uri/ldaps
+I 05/19/2018 01:27:29:178 00003c98              RhoRuby| require_compiled: uri/mailto
+I 05/19/2018 01:27:29:184 00003c98              RhoRuby| require_compiled: timeout
+I 05/19/2018 01:27:29:189 00003c98                  APP| [Debugger] Opening connection
+I 05/19/2018 01:27:29:192 00003c98                  APP| [Debugger] host=127.0.0.1
+I 05/19/2018 01:27:29:196 00003c98                  APP| [Debugger] port=9000
+I 05/19/2018 01:27:29:200 00003c98                  APP| [Debugger] path=C:/Users/zc13224/source/repos/MinerWatcher/app/
+I 05/19/2018 01:27:30:218 00003c98                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: No connection could be made because the target machine actively refused it. - connect(2)>
+I 05/19/2018 01:27:30:226 00003c98                  APP| RHO loaded
+I 05/19/2018 01:27:30:232 00003c98                  APP| Calling RHO.initialize , use_new_orm: 0
+I 05/19/2018 01:27:30:237 00003c98                  APP| MZV_DEBUG: we are in use_new_orm false false
+I 05/19/2018 01:27:30:242 00003c98                   DB| Open DB: C:/Users/zc13224/source/repos/MinerWatcher/rhosimulator/db/syncdbapp.sqlite
+I 05/19/2018 01:27:30:250 00003c98                   DB| Open DB: C:/Users/zc13224/source/repos/MinerWatcher/rhosimulator/db/syncdbuser.sqlite
+I 05/19/2018 01:27:30:257 00003c98                   DB| Open DB: C:/Users/zc13224/source/repos/MinerWatcher/rhosimulator/db/syncdblocal.sqlite
+I 05/19/2018 01:27:30:265 00003c98              RhoRuby| require_compiled: rhom
+I 05/19/2018 01:27:30:271 00003c98              RhoRuby| require_compiled: rhom/rhom
+I 05/19/2018 01:27:30:283 00003c98              RhoRuby| require_compiled: rhom/rhom_object_factory
+I 05/19/2018 01:27:30:344 00003c98              RhoRuby| require_compiled: rhom/rhom_object
+I 05/19/2018 01:27:30:352 00003c98              RhoRuby| require_compiled: rhom/rhom_model
+I 05/19/2018 01:27:30:361 00003c98              RhoRuby| require_compiled: rhom/rhom_source
+I 05/19/2018 01:27:30:367 00003c98              RhoRuby| require_compiled: rhoappmanifest
+I 05/19/2018 01:27:30:373 00003c98              RhoRuby| require_compiled: find
+I 05/19/2018 01:27:30:384 00003c98                  APP| model file: Settings/settings
+I 05/19/2018 01:27:30:388 00003c98          GeoLocation| Creating singleton instance.
+I 05/19/2018 01:27:30:393 00003c98            RhodesApp| Starting sync engine...
+I 05/19/2018 01:27:30:397 00003c98          RhoThreadQT| RHOQT CRhoThreadImpl cons-before InitializeCriticalSections
+I 05/19/2018 01:27:30:401 00003c98                 Sync| sync_poll_interval: 0
+I 05/19/2018 01:27:30:406 00003c98                 Sync| syncserver: 
+I 05/19/2018 01:27:30:410 00003c98                 Sync| bulksync_state: 0
+I 05/19/2018 01:27:30:415 00003c98            RhodesApp| RhoRubyInitApp...
+I 05/19/2018 01:27:30:415 00000254                 Sync| Starting main routine...
+I 05/19/2018 01:27:30:419 00003c98                  APP| init_app
+I 05/19/2018 01:27:30:427 00000254                 Sync| ThreadQueue blocked for 4294967295 seconds...
+I 05/19/2018 01:27:30:429 00003c98              RhoRuby| require_compiled: application
+I 05/19/2018 01:27:30:433 00000254          RhoThreadQT| RHOQT wait
+I 05/19/2018 01:27:30:439 00003c98           HttpServer| Start HTTP server
+I 05/19/2018 01:27:30:443 00000254          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/19/2018 01:27:30:447 00003c98           HttpServer| Listen for connections on port 57254
+I 05/19/2018 01:27:30:451 00000254          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/19/2018 01:27:30:456 00003c98         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
+I 05/19/2018 01:27:30:464 00003c98          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:27:30:469 00003c98          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:27:30:574 00003c98          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:27:30:580 00003c98          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:27:30:584 000021c8          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:27:30:589 000021c8          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:27:30:593 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:27:30:597 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:27:30:601 000021c8         AppCallbacks| LOCAL-SERVER-STARTED is received ++++++++++++++++++++++++++++
+I 05/19/2018 01:27:30:605 000021c8         AppCallbacks| process command: LOCAL-SERVER-STARTED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/19/2018 01:27:30:609 000021c8           SystemImpl| rho_sys_report_app_started() has no implementation in RhoSimulator.
+I 05/19/2018 01:27:30:613 000021c8         AppCallbacks| process command: UI-CREATED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/19/2018 01:27:30:617 000021c8                  Net| Method: GET;Url: http://127.0.0.1:57254/system/uicreated
+I 05/19/2018 01:27:30:638 00003c98           HttpServer| Process URI: '/system/uicreated'
+I 05/19/2018 01:27:30:644 00003c98                  APP| on_ui_created.navigate to start url: '/app'
+I 05/19/2018 01:27:30:648 000022c4         QtMainWindow| WebView: loading...
+I 05/19/2018 01:27:30:648 000021c8         AppCallbacks| process command: APP-ACTIVATED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/19/2018 01:27:30:656 000021c8                  Net| Method: GET;Url: http://127.0.0.1:57254/system/activateapp
+I 05/19/2018 01:27:30:660 000021c8                  Net| initConnection-Internet handle present
+I 05/19/2018 01:27:30:665 00003c98           HttpServer| Process URI: '/system/activateapp'
+I 05/19/2018 01:27:30:669 00003c98                  APP| AppEvent Activated
+I 05/19/2018 01:27:30:688 000021c8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/19/2018 01:27:30:692 000021c8          RhoThreadQT| RHOQT wait
+I 05/19/2018 01:27:30:697 000021c8          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/19/2018 01:27:30:701 000021c8          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/19/2018 01:27:31:730 00003c98           HttpServer| Process URI: '/app'
+I 05/19/2018 01:27:31:748 00003c98           HttpServer| Process URI: '/app/index.erb'
+I 05/19/2018 01:27:31:752 00003c98                  APP| RHO serve_index: /app/index.erb
+I 05/19/2018 01:27:31:757 00003c98 RHO Rho::RhoController| inst_render_index
+I 05/19/2018 01:27:31:761 00003c98              RhoRuby| require_compiled: erb
+I 05/19/2018 01:27:31:769 00003c98                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/index.erb
+I 05/19/2018 01:27:31:774 00003c98                  APP| const_missing: Settings
+I 05/19/2018 01:27:31:777 00003c98                  APP| load_model: Settings
+I 05/19/2018 01:27:31:782 00003c98              RhoRuby| require_compiled: Settings/settings
+I 05/19/2018 01:27:31:786 00003c98              RhoRuby| require_compiled: helpers/application_helper
+I 05/19/2018 01:27:31:791 00003c98                  APP| model name: Settings
+I 05/19/2018 01:27:31:795 00003c98                  APP| model class found
+I 05/19/2018 01:27:31:798 00003c98                  APP| Settings : {"partition"=>:local, "property"=>{}}
+I 05/19/2018 01:27:31:802 00003c98                  APP| init_db_sources
+I 05/19/2018 01:27:31:807 00003c98                  APP| start_id: 40004
+I 05/19/2018 01:27:31:810 00003c98                  APP| Migrate schema sources: {}
+I 05/19/2018 01:27:31:815 00003c98 RHO Rho::RhoController| index layout
+I 05/19/2018 01:27:31:819 00003c98                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/19/2018 01:27:31:824 00003c98           HttpServer| GC Start.
+I 05/19/2018 01:27:31:826 000022c4         QtMainWindow| WebView: URL changed to http://127.0.0.1:57254/app/index.erb
+I 05/19/2018 01:27:31:829 00003c98           HttpServer| GC End.
+I 05/19/2018 01:27:31:837 00003c98           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/19/2018 01:27:31:843 00003c98           HttpServer| Process URI: '/public/css/style.css'
+I 05/19/2018 01:27:31:847 00003c98           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/19/2018 01:27:31:853 00003c98           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/19/2018 01:27:31:859 00003c98           HttpServer| Process URI: '/public/js/plugins/slick/slick.css'
+I 05/19/2018 01:27:31:864 00003c98           HttpServer| Process URI: '/public/js/plugins/slick/slick.min.js'
+I 05/19/2018 01:27:31:869 00003c98           HttpServer| Process URI: '/public/js/watcher.js'
+I 05/19/2018 01:27:31:875 00003c98           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/19/2018 01:27:31:893 000022c4               NewORM| calling useNewOrm
+I 05/19/2018 01:27:31:898 000022c4         QtMainWindow| Page load complete.
+I 05/19/2018 01:27:31:903 000022c4         QtMainWindow| WebView: loading...
+I 05/19/2018 01:27:31:908 00003c98           HttpServer| Process URI: '/app/Settings/wait'
+I 05/19/2018 01:27:31:912 00003c98                  APP| RHO serve: /app/Settings/wait
+E 05/19/2018 01:27:31:917 00003c98              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/19/2018 01:27:31:921 00003c98              RhoRuby| require_compiled: Settings/controller
+I 05/19/2018 01:27:31:926 00003c98              RhoRuby| require_compiled: helpers/browser_helper
+I 05/19/2018 01:27:31:930 00003c98              RhoRuby| require_compiled: helpers/web_request_helper
+I 05/19/2018 01:27:31:935 00003c98                  APP| Params: {"mode"=>"setup"}
+I 05/19/2018 01:27:31:939 00003c98                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/wait.erb
+I 05/19/2018 01:27:31:944 00003c98                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/19/2018 01:27:31:949 00003c98 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 2832
+I 05/19/2018 01:27:31:953 00003c98           HttpServer| GC Start.
+I 05/19/2018 01:27:31:959 00003c98           HttpServer| GC End.
+I 05/19/2018 01:27:31:959 000022c4         QtMainWindow| WebView: URL changed to http://127.0.0.1:57254/app/Settings/wait?mode=setup
+I 05/19/2018 01:27:31:986 000022c4               NewORM| calling useNewOrm
+I 05/19/2018 01:27:31:993 00003c98           HttpServer| Process URI: '/favicon.ico'
+E 05/19/2018 01:27:31:998 00003c98           HttpServer| The file /favicon.ico was not found
+I 05/19/2018 01:27:32:002 000022c4         QtMainWindow| Page load complete.
+I 05/19/2018 01:27:32:020 00003c98           HttpServer| Process URI: '/public/images/loading.gif'
+I 05/19/2018 01:27:32:044 00003c98           HttpServer| Process URI: '/app/Settings/downloadRigStatus'
+I 05/19/2018 01:27:32:049 00003c98                  APP| RHO serve: /app/Settings/downloadRigStatus
+E 05/19/2018 01:27:32:053 00003c98              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/19/2018 01:27:32:058 00003c98                  Net| Method: GET;Url: http://www.google.com
+I 05/19/2018 01:27:32:062 00003c98                  Net| initConnection-Internet handle present
+I 05/19/2018 01:27:32:341 00003c98                  Net| Method: GET;Url: http://b57258.ethosdistro.com/?json=yes
+I 05/19/2018 01:27:32:345 00003c98                  Net| initConnection-Internet handle present
+I 05/19/2018 01:27:32:581 00003c98 FEED======================| {"rigs"=>{"37f0f3"=>{"condition"=>"mining", "version"=>"1.3.1", "driver"=>"amdgpu", "miner"=>"claymore", "gpus"=>"5", "miner_instance"=>"5", "miner_hashes"=>"30.73 29.46 30.70 30.70 28.53", "bioses"=>"MS-V34114-F1 xxx-xxx-xxxx xxx-xxx-xxxx xxx-xxx-xxxx 113-C94031-M01", "meminfo"=>"GPU0:01.00.0:Radeon RX 580:MS-V34114-F1:Unknown Micron:GDDR5:Polaris10\nGPU1:03.00.0:Radeon RX 580:xxx-xxx-xxxx:SK Hynix H5GQ8H24MJR:GDDR5:Polaris10\nGPU2:04.00.0:Radeon RX 580:xxx-xxx-xxxx:Samsung K4G41325FE:GDDR5:Polaris10\nGPU3:06.00.0:Radeon RX 580:xxx-xxx-xxxx:Samsung K4G41325FE:GDDR5:Polaris10\nGPU4:08.00.0:Radeon RX 580:113-C94031-M01:Unknown Micron:GDDR5:Polaris10", "vramsize"=>"8 8 4 4 8", "drive_name"=>"Ultra USB 3.0 4C530001191227111170", "mobo"=>"970A-DS3P", "biosversion"=>"FD", "lan_chip"=>"Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 0c)", "connected_displays"=>nil, "ram"=>"4", "flags"=>nil, "rack_loc"=>"", "ip"=>"192.168.1.188", "server_time"=>1526711115, "uptime"=>"245475", "miner_secs"=>245405, "rx_kbps"=>"0.20", "tx_kbps"=>"0.07", "load"=>"0.55", "cpu_temp"=>"37", "freespace"=>2.1, "hash"=>150.12, "pool"=>"pool-usa.ethosdistro.com:5001", "temp"=>"56.00 60.00 61.00 65.00 51.00", "powertune"=>"7 7 7 7 7", "voltage"=>"0.987 1.002 1.004 0.998 0.953", "watts"=>"110 111 111 113 133", "fanrpm"=>"2755 3834 3882 3856 3772", "core"=>"1150 1150 1150 1150 1050", "mem"=>"2150 2100 2100 2100 2050"}, "37f10d"=>{"condition"=>"mining", "version"=>"1.3.1", "driver"=>"amdgpu", "miner"=>"claymore", "gpus"=>"3", "miner_instance"=>"3", "miner_hashes"=>"30.70 28.56 28.53", "bioses"=>"MS-V34114-F1 113-C94031-M01 113-C94031-M01", "meminfo"=>"GPU0:01.00.0:Radeon RX 580:MS-V34114-F1:Unknown Micron:GDDR5:Polaris10\nGPU1:03.00.0:Radeon RX 580:113-C94031-M01:Unknown Micron:GDDR5:Polaris10\nGPU2:04.00.0:Radeon RX 580:113-C94031-M01:Unknown Micron:GDDR5:Polaris10", "vramsize"=>"8 8 8", "drive_name"=>"Ultra USB 3.0 4C530001051225101320", "mobo"=>"970A-DS3P", "biosversion"=>"FD", "lan_chip"=>"Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 0c)", "connected_displays"=>nil, "ram"=>"4", "flags"=>nil, "rack_loc"=>"", "ip"=>"192.168.1.118", "server_time"=>1526711147, "uptime"=>"193708", "miner_secs"=>193643, "rx_kbps"=>"0.19", "tx_kbps"=>"0.07", "load"=>"0.38", "cpu_temp"=>"27", "freespace"=>2.1, "hash"=>87.79, "pool"=>"pool-usa.ethosdistro.com:5001", "temp"=>"47.00 54.00 59.00", "powertune"=>"7 7 7", "voltage"=>"0.995 0.979 0.953", "watts"=>"110 126 126", "fanrpm"=>"2738 3699 3791", "core"=>"1150 1050 1050", "mem"=>"2150 2050 2050"}}, "total_hash"=>237.91, "alive_gpus"=>8, "total_gpus"=>8, "alive_rigs"=>2, "total_rigs"=>2, "current_version"=>"1.3.1", "avg_temp"=>55.965, "capacity"=>"100.0", "per_info"=>{"claymore"=>{"hash"=>238, "per_alive_gpus"=>8, "per_total_gpus"=>8, "per_alive_rigs"=>2, "per_total_rigs"=>2, "per_hash-gpu"=>"29.8", "per_hash-rig"=>"119.0", "current_time"=>1526711252}}}
+I 05/19/2018 01:27:32:589 00003c98           HttpServer| GC Start.
+I 05/19/2018 01:27:32:594 00003c98           HttpServer| GC End.
+I 05/19/2018 01:29:25:161 000022c4            RhodesApp| callAppActiveCallback
+I 05/19/2018 01:29:25:172 000022c4         AppCallbacks| addCommand: APP-DEACTIVATED
+I 05/19/2018 01:29:25:177 000022c4          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:29:25:187 000022c4          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:29:25:292 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:29:25:301 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:29:25:307 000022c4                  Net| Method: GET;Url: http://127.0.0.1:57254/system/deactivateapp
+I 05/19/2018 01:29:25:313 000022c4                  Net| initConnection-Internet handle present
+I 05/19/2018 01:29:25:308 000021c8          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:29:25:321 00003c98           HttpServer| Process URI: '/system/deactivateapp'
+I 05/19/2018 01:29:25:333 000021c8          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:29:25:352 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:29:25:358 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:29:25:365 000021c8         AppCallbacks| APP-DEACTIVATED is received ++++++++++++++++++++++++++++
+I 05/19/2018 01:29:25:372 000021c8         AppCallbacks| process command: APP-DEACTIVATED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/19/2018 01:29:25:378 000021c8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/19/2018 01:29:25:384 000021c8          RhoThreadQT| RHOQT wait
+I 05/19/2018 01:29:25:346 00003c98                  APP| AppEvent Deactivated
+I 05/19/2018 01:29:25:390 000021c8          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/19/2018 01:29:25:403 000021c8          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/19/2018 01:29:25:402 000022c4                  Net| Method: GET;Url: http://127.0.0.1:57254/system/uidestroyed
+I 05/19/2018 01:29:25:416 000022c4                  Net| initConnection-Internet handle present
+I 05/19/2018 01:29:25:424 00003c98           HttpServer| Process URI: '/system/uidestroyed'
+I 05/19/2018 01:29:25:430 00003c98                  APP| AppEvent UIDestroyed
+I 05/19/2018 01:29:25:437 000022c4          RhoThreadQT| RHOQT stop
+I 05/19/2018 01:29:25:444 000022c4          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:29:25:450 000022c4          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:29:25:557 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:29:25:566 000022c4          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:29:25:575 000021c8          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:29:25:581 000021c8          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:29:25:589 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/19/2018 01:29:25:595 000021c8          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/19/2018 01:29:25:603 000021c8         AppCallbacks| Thread shutdown
+I 05/19/2018 01:29:25:612 000022c4           HttpServer| Stopping server...
+I 05/19/2018 01:29:25:621 00003c98            RhodesApp| RhodesApp thread shutdown
+I 05/19/2018 01:29:25:621 000022c4          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:29:25:634 000022c4          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:29:25:628 00003c98          GeoLocation| Destroying singleton instance.
+I 05/19/2018 01:29:25:648 00003c98                 Sync| Stopping Sync thread
+I 05/19/2018 01:29:25:655 00003c98          RhoThreadQT| RHOQT stop
+I 05/19/2018 01:29:25:661 00003c98          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:29:25:668 00003c98          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:29:25:742 000022c4          RhoThreadQT| RHOQT stop
+I 05/19/2018 01:29:25:751 000022c4          RhoThreadQT| RHOQT stopWait
+I 05/19/2018 01:29:25:758 000022c4          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/19/2018 01:29:25:775 00003c98          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/19/2018 01:29:25:782 00003c98          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/19/2018 01:29:25:790 00000254          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/19/2018 01:29:25:806 00000254          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/19/2018 01:29:25:813 00000254          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+m/uicreated
+ wait-after wait for a long time Result:-  false

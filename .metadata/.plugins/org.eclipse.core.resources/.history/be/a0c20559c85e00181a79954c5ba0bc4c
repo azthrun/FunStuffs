@@ -1,0 +1,3 @@
+<div style="text-align:center;">
+  <p>Rx/Tx: <%= @worker.rx %> / <%= @worker.tx %> kbps</p>
+</div>

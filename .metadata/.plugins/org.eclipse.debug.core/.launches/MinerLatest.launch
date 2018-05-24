@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="rhogenwizard.launcher.rhodesApp">
+<stringAttribute key="aemuname" value=""/>
+<stringAttribute key="aversion" value="5.1.1"/>
+<stringAttribute key="build" value="local"/>
+<booleanAttribute key="clean" value="false"/>
+<stringAttribute key="ipversion" value="ipad"/>
+<stringAttribute key="platform" value="android"/>
+<stringAttribute key="project_name" value="MinerWatcher"/>
+<booleanAttribute key="rebuild" value="false"/>
+<booleanAttribute key="trace" value="false"/>
+<stringAttribute key="type_symulator" value="rhosimulator"/>
+</launchConfiguration>

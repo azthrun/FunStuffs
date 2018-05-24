@@ -1,0 +1,24 @@
+<div data-role="page" class="page">
+  
+  <!-- header -->
+  <div class="ui-bar page-header">
+    <span>Setup Watcher</span>
+  </div>
+  
+  <!-- content -->
+  <div data-role="content">
+
+    <!-- Input section -->
+    <div class="setup-input">
+      <div class="ui-grid-a" style="width:100%;">
+        <div class="ui-block-a" style="width:30%;">
+          <a>Panel ID</a>
+        </div>
+        <div class="ui-block-b" style="width:70%;">
+          <input type="text" placeholder="Panel ID of your rigs" data-corners="false" />
+        </div>
+      </div>
+    </div>
+  
+  </div>
+</div>

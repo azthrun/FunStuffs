@@ -1,0 +1,15 @@
+<div style="text-align:center;">
+  <% doesWorkerNeedRestart = @worker.minerInstance != @worker.numOfGPU %>
+  <div class="popup-header">Worker <%= @worker.object %> General Information</div>
+  <p><strong style="color:#3958d0;">Status Retrieved</strong> @ <%= Time.at(@worker.serverTime.to_i).strftime("%y-%^b-%d %I:%M:%S %p") %></p>
+  <p><strong>Total Hash</strong>: <%= @worker.totalHash %> Mh/s;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Live GPUs</strong>: <span <% if doesWorkerNeedRestart %>style="color:#880000;font-weight:700;"<% end %>><%= @worker.minerInstance %></span>/<%= @worker.numOfGPU %></p>
+  <p><strong>Rx/Tx</strong>: <%= @worker.rx %> / <%= @worker.tx %> kbps; <strong>System Load AVG</strong>: <%= @worker.sysLoadAvg %> kbps</p>
+  <p><strong>Rig Up Time</strong>: <%= Miner.getUpTimeString(@worker.rigUpTime) %></p>
+  <p><strong>Miner Up Time</strong>: <%= Miner.getUpTimeString(@worker.minerUpTime) %></p>
+  <p><strong>Pool</strong>: <%= @worker.minePool %></p>
+  <p><strong>CPU Temp</strong>: <%= @worker.motherboard %> &#8451;;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Motherboard</strong>: <%= @worker.motherboard %></p>
+  <p><strong>OS Driver</strong>: <%= @worker.osDriver %></p>
+  <p><strong>RAM Status</strong>: <%= @worker.freeRam %> GB / <%= @worker.rigRam %> GB</p>
+  <p><strong>BIOS Version</strong>: <%= @worker.biosVersion %>;&nbsp;&nbsp;&nbsp;&nbsp;<strong>GPU Driver</strong>: <%= @worker.driver %></p>
+  <p><strong>LAN Chip</strong>: <%= @worker.chipLAN %></p>
+</div>

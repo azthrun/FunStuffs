@@ -1,0 +1,15 @@
+<div style="text-align:center;">
+  <% doesWorkerNeedRestart = @worker.minerInstance != @worker.numOfGPU %>
+  <div class="popup-header">Worker <%= @worker.object %> General Information</div>
+  <p><strong>Total Hash</strong>: <%= @worker.totalHash %> Mh/s</p>
+  <p><strong>Live GPUs</strong>: <span <% if doesWorkerNeedRestart %>style="color:#880000;font-weight:700;"<% end %>><%= @worker.minerInstance %></span>/<%= @worker.numOfGPU %>&nbsp;&nbsp;&nbsp;<span <% if doesWorkerNeedRestart %>style="color:#880000;font-weight:700;"<% end %>><%= (@worker.minerInstance.to_i / @worker.numOfGPU.to_i * 100).to_i %>%</span></p>
+  <p><strong>Rx/Tx</strong>: <%= @worker.rx %> / <%= @worker.tx %> kbps</p>
+  <p><strong></strong>: </p>
+  <p><strong>Pool</strong>: <%= @worker.minePool %></p>
+  <p><strong>Motherboard</strong>: <%= @worker.motherboard %></p>
+  <p><strong>OS Driver</strong>: <%= @worker.osDriver %></p>
+  <p><strong>Number of RAM</strong>: <%= @worker.rigRam %></p>
+  <p><strong>BIOS Version</strong>: <%= @worker.biosVersion %></p>
+  <p><strong>GPU Driver</strong>: <%= @worker.driver %></p>
+  <p><strong>LAN Chip</strong>: <%= @worker.chipLAN %></p>
+</div>

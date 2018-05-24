@@ -1,0 +1,28 @@
+<div data-role="page">
+  <div data-role="content">
+    <script>
+      <% if Settings.panelId.empty? %>
+        replacePage("/app/Settings/index");
+      <% else %>
+        replacePage("/app/Settings/home");
+      <% end %>
+    </script>
+  </div>
+</div>
+
+<!-- Default Sample
+<div class="container-fluid">
+
+  
+
+  <div class="row">
+    <div class="list-group">
+      <a href="#" class="list-group-item">
+        <span class="glyphicon glyphicon-chevron-right pull-right" aria-hidden="true"></span>
+        Add link here...
+      </a>
+    </div>
+  </div>
+
+</div>
+-->

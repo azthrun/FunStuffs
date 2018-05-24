@@ -1,0 +1,13 @@
+<div data-role="page" class="page">
+  
+  <!-- header -->
+  <div class="ui-bar page-header">
+  
+  </div>
+  
+  <!-- content -->
+  <div data-role="content">
+  
+  </div>
+  
+</div>

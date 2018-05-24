@@ -1,0 +1,11 @@
+<div data-role="page">
+  <div data-role="content">
+    <script>
+      <% if Settings.panelId.nil? or Settings.panelId.empty? %>
+        replacePage("/app/Settings/setup");
+      <% else %>
+        replacePage("/app/Settings/wait?mode=setup");
+      <% end %>
+    </script>
+  </div>
+</div>

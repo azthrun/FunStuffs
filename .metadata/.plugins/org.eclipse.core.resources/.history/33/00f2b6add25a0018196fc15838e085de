@@ -1,0 +1,3 @@
+function replacePage(pageUrl) {
+	location.replace(pageUrl);
+}

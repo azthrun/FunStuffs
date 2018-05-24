@@ -1,0 +1,11 @@
+<div data-role="page" class="page" style="background-color:#dbdbdb">
+  <!-- header -->
+  <div class="ui-bar page-header">
+    <span style="">Setup Watcher</span>
+  </div>
+  
+  <!-- content -->
+  <div data-role="content">
+    
+  </div>
+</div>

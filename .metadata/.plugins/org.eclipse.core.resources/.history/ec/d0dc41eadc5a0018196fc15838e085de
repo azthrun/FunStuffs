@@ -1,0 +1,29 @@
+require 'rho'
+require 'rho/rhocontroller'
+require 'rho/rhoerror'
+require 'helpers/browser_helper'
+
+class SettingsController < Rho::RhoController
+  include BrowserHelper
+  
+  def setup
+    render
+  end
+  
+  def wait
+    @mode = @params["mode"]
+    @msg = nil
+    case @mode
+    when Settings::WAITFOR_SETUP then @msg = "Setting Up Miner Watcher" 
+    end
+    Rho::Log.info(@msg.inspect, "MSG CODE ==================")
+    render
+  end
+
+  def storePanelId
+    panelId = @params["panelId"]
+    Settings.set(Settings::PANELID, panelId)
+    render :layout => false
+  end
+  
+end

@@ -1,0 +1,45 @@
+require "helpers/application_helper"
+
+class Settings
+  include Rhom::PropertyBag
+  
+  set :partition, :local
+  
+  PANELID = "panelId"
+  RIGDATA = "rigData"
+  
+  WAITFOR_SETUP = "setup"
+  
+  class << self
+    include ApplicationHelper
+    
+    def instance
+      resetInstance unless @instance
+      @instance
+    end
+    
+    def resetInstance
+      @instance = Settings.find(0).first
+      @instance = Settings.create({"object" => 0}) if @instance.nil? or @instance.empty?
+    end
+    
+    def set(key, value)
+      instance.update_attributes({key => value})
+    end
+    
+    def panelId
+      if instance.panelId.nil?
+        set(PANELID, "")
+      end
+      instance.panelId 
+    end
+    
+    def rigData
+      if instance.rigData.nil?
+        set(RIGDATA, Hash.new.to_json)
+      end
+      Rho::JSON.parse(instance.rigData)
+    end
+    
+  end
+end

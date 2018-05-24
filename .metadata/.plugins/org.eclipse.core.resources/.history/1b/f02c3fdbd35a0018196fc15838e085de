@@ -1,0 +1,17 @@
+require 'rho'
+require 'rho/rhocontroller'
+require 'rho/rhoerror'
+require 'helpers/browser_helper'
+
+class SettingsController < Rho::RhoController
+  include BrowserHelper
+  
+  def setup
+    render
+  end
+
+  def storePanelId
+    
+  end
+  
+end

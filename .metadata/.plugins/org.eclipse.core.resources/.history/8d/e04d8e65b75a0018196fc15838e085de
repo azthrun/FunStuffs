@@ -1,0 +1,19 @@
+class Settings
+  include Rhom::PropertyBag
+  
+  set :partition, :local
+  
+  class << self
+    include ApplicationHelper
+    
+    def instance
+      resetInstance unless @instance
+      @instance
+    end
+    
+    def resetInstance
+      @instance = Settings.find(0).first
+      @instance = Settings.create({"object" => 0}) if @instance.nil? or @instance.empty?
+    end
+  end
+end

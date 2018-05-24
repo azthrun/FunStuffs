@@ -1,0 +1,24 @@
+<div data-role="page" class="page">
+  
+  <% Rho::Log.info(@msg.inspect, "MSG ==================") %>
+  <!-- header -->
+  <div class="ui-bar page-header">
+    <span><%= @msg %></span>
+  </div>
+  
+  <!-- content -->
+  <div data-role="content">
+  
+    <!-- loading gif -->
+    <div class="setup-input" style="display:none;">
+      <div style="height:20vh;background:transparent url('/public/images/loading.gif') no-repeat center center;background-size:contain;"></div>
+    </div>
+    
+  </div>
+  
+  <script>
+    $(document).ready(function() {
+      $(".setup-input").fadeIn(400);
+    });
+  </script>
+</div>

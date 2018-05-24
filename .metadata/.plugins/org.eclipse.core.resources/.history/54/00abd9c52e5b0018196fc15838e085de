@@ -1,0 +1,19 @@
+# The model has already been created by the framework, and extends Rhom::RhomObject
+# You can add more methods here
+class Miner
+  include Rhom::PropertyBag
+
+  set :partition, :user
+
+  def storeMinerStatus
+    Miner.delete_all
+    db = ::Rho::RHO.get_src_db('Miner')
+    db.start_transaction
+    begin
+
+      db.commit
+    rescue Rho::RhoError => e        
+      db.rollback
+    end
+  end
+end
