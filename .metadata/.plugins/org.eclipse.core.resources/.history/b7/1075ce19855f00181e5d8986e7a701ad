@@ -1,0 +1,5 @@
+class Navigation
+  include Rhom::PropertyBag
+
+  set :partition, :local
+end

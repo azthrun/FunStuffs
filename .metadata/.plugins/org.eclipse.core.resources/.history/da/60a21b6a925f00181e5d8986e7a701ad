@@ -1,0 +1,449 @@
+I 05/24/2018 15:31:28:373 00003ea8            RhodesApp| New start params: -approot=C:/Users/zc13224/source/repos/CivicsPracticeTest -rhodespath=C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62 
+I 05/24/2018 15:31:28:373 00003ea8               QTMain| Running on : Windows 6.2 (Win 8) Application Compiled with QT Version :  5.1.1 Running with QT Version 5.1.1
+I 05/24/2018 15:31:28:373 00003ea8               QTMain| 0 Paths
+I 05/24/2018 15:31:28:389 00003ea8               QTMain| C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/platform/win32/RhoSimulator
+I 05/24/2018 15:31:28:389 00003ea8               QTMain| Rhodes started
+I 05/24/2018 15:31:28:389 00003ea8          RhoThreadQT| RHOQT CRhoThreadImpl cons-before InitializeCriticalSections
+I 05/24/2018 15:31:28:389 00003ea8          RhoThreadQT| RHOQT CRhoThreadImpl cons-before InitializeCriticalSections
+I 05/24/2018 15:31:28:389 00003ea8          RhoThreadQT| RHOQT CRhoThreadImpl cons-before InitializeCriticalSections
+I 05/24/2018 15:31:28:389 00003ef4          RhoThreadQT| RHOQT wait
+I 05/24/2018 15:31:28:389 00003ea8            RhodesApp| Trying to get free listening port.
+I 05/24/2018 15:31:28:389 00004134         AppCallbacks| Starting main routine...
+I 05/24/2018 15:31:28:389 00003ef4          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/24/2018 15:31:28:389 00003ea8            RhodesApp| Trying to bind of 0 port...
+I 05/24/2018 15:31:28:389 00004134         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/24/2018 15:31:28:404 00004134          RhoThreadQT| RHOQT wait
+I 05/24/2018 15:31:28:404 00003ea8            RhodesApp| Got port to bind on: 55843
+I 05/24/2018 15:31:28:389 00003ef4          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294967295
+I 05/24/2018 15:31:28:404 00004134          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/24/2018 15:31:28:404 00003ea8            RhodesApp| Free listening port: 55843
+I 05/24/2018 15:31:28:404 00004134          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/24/2018 15:31:28:551 00003ea8            RhodesApp| callAppActiveCallback
+I 05/24/2018 15:31:28:552 00003ea8         AppCallbacks| addCommand: APP-ACTIVATED
+I 05/24/2018 15:31:28:554 00003ea8          RhoThreadQT| RHOQT stopWait
+I 05/24/2018 15:31:28:556 00003ea8          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/24/2018 15:31:28:659 00003ea8          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/24/2018 15:31:28:659 00003ea8          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/24/2018 15:31:28:659 00004134          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/24/2018 15:31:28:659 00004134          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/24/2018 15:31:28:659 00004134          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/24/2018 15:31:28:659 00004134          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/24/2018 15:31:28:659 00003ea8         AppCallbacks| addCommand: UI-CREATED
+I 05/24/2018 15:31:28:659 00004134         AppCallbacks| APP-ACTIVATED is received ++++++++++++++++++++++++++++
+I 05/24/2018 15:31:28:659 00003ea8          RhoThreadQT| RHOQT stopWait
+I 05/24/2018 15:31:28:659 00004134         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 05/24/2018 15:31:28:675 00003ea8          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/24/2018 15:31:28:675 00004134         AppCallbacks| UI-CREATED is received ++++++++++++++++++++++++++++
+I 05/24/2018 15:31:28:675 00004134         AppCallbacks| m_uistate: 0
+I 05/24/2018 15:31:28:675 00004134         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 05/24/2018 15:31:28:675 00004134         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/24/2018 15:31:28:675 00004134          RhoThreadQT| RHOQT wait
+I 05/24/2018 15:31:28:675 00004134          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/24/2018 15:31:28:690 00004134          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/24/2018 15:31:28:784 00003ea8          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/24/2018 15:31:28:784 00003ea8          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/24/2018 15:31:28:784 00003ea8           MainWindow| navigate: 'about:blank'
+I 05/24/2018 15:31:28:784 00003f0c            RhodesApp| Starting RhodesApp main routine...
+I 05/24/2018 15:31:28:784 00004134          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/24/2018 15:31:28:784 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:31:28:784 00004134          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/24/2018 15:31:28:800 00004134          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/24/2018 15:31:28:800 00004134          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/24/2018 15:31:28:800 00004134         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/24/2018 15:31:28:800 00004134          RhoThreadQT| RHOQT wait
+I 05/24/2018 15:31:28:784 00003ea8         QtMainWindow| WebView: URL changed to about:blank
+I 05/24/2018 15:31:28:800 00003f0c              RhoRuby| Init_RhoBlobs: C:/Users/zc13224/source/repos/CivicsPracticeTest/rhosimulator/db/db-files
+I 05/24/2018 15:31:28:800 00004134          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/24/2018 15:31:28:800 00003ea8         QtMainWindow| Page load complete.
+I 05/24/2018 15:31:28:800 00004134          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/24/2018 15:31:28:815 00003f0c              RhoRuby| require_compiled: RhoSystemApi
+I 05/24/2018 15:31:28:820 00003f0c              RhoRuby| require_compiled: RhoApplicationApi
+I 05/24/2018 15:31:28:827 00003f0c              RhoRuby| require_compiled: RhoNetworkApi
+I 05/24/2018 15:31:28:831 00003f0c              RhoRuby| require_compiled: RhoDatabaseApi
+I 05/24/2018 15:31:28:836 00003f0c              RhoRuby| require_compiled: RhoLogApi
+I 05/24/2018 15:31:28:839 00003f0c              RhoRuby| require_compiled: RhoWebViewApi
+I 05/24/2018 15:31:28:842 00003f0c              RhoRuby| require_compiled: RhoNativeToolbarApi
+I 05/24/2018 15:31:28:845 00003f0c              RhoRuby| require_compiled: RhoNativeTabbarApi
+I 05/24/2018 15:31:28:848 00003f0c              RhoRuby| require_compiled: RhoNotificationApi
+I 05/24/2018 15:31:28:850 00003f0c              RhoRuby| require_compiled: RhoNativeMenubarApi
+I 05/24/2018 15:31:28:853 00003f0c              RhoRuby| require_compiled: RhoTimerApi
+E 05/24/2018 15:31:28:857 00003f0c              RhoRuby| require_compiled: error: can not find RhoConnectClient
+W 05/24/2018 15:31:28:858 00003f0c          CExtManager| requireRubyFile cannot find file: RhoConnectClient
+I 05/24/2018 15:31:28:861 00003f0c RhoconnectClientManager| setRhoconnectClientImpl ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I 05/24/2018 15:31:28:863 00003f0c              RhoRuby| require_compiled: digest
+I 05/24/2018 15:31:28:865 00003f0c              RhoRuby| require_compiled: digest.so
+I 05/24/2018 15:31:28:871 00003f0c              RhoRuby| require_compiled: rhoframework
+I 05/24/2018 15:31:28:872 00003f0c              RhoRuby| require_compiled: rational
+I 05/24/2018 15:31:28:872 00003f0c              RhoRuby| require_compiled: json
+I 05/24/2018 15:31:28:872 00003f0c              RhoRuby| require_compiled: json/common
+I 05/24/2018 15:31:28:872 00003f0c              RhoRuby| require_compiled: json/version
+I 05/24/2018 15:31:28:872 00003f0c              RhoRuby| require_compiled: json/pure
+I 05/24/2018 15:31:28:872 00003f0c              RhoRuby| require_compiled: json/pure/generator
+I 05/24/2018 15:31:28:888 00003f0c              RhoRuby| require_compiled: rho/rhoapplication
+I 05/24/2018 15:31:28:888 00003f0c              RhoRuby| require_compiled: rholang/localization_simplified
+I 05/24/2018 15:31:28:888 00003f0c              RhoRuby| require_compiled: rho/rhomsg
+I 05/24/2018 15:31:28:888 00003f0c              RhoRuby| require_compiled: rho/rhotabbar
+I 05/24/2018 15:31:28:904 00003f0c              RhoRuby| require_compiled: rho/rhotoolbar
+I 05/24/2018 15:31:28:904 00003f0c                  APP| Current locale: ; Country code: 
+I 05/24/2018 15:31:28:904 00003f0c                  APP| Locilized file: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_
+I 05/24/2018 15:31:28:904 00003f0c                  APP|    - load [C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_en]
+I 05/24/2018 15:31:28:904 00003f0c              RhoRuby| require_compiled: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_en
+I 05/24/2018 15:31:28:904 00003f0c                  APP| Locilized file: C:/Users/zc13224/source/repos/CivicsPracticeTest/app/lang/lang_
+I 05/24/2018 15:31:28:904 00003f0c                  APP| Locilized file: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_
+I 05/24/2018 15:31:28:904 00003f0c                  APP|    - load [C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_en]
+I 05/24/2018 15:31:28:919 00003f0c              RhoRuby| require_compiled: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_en
+I 05/24/2018 15:31:28:919 00003f0c                  APP| Locilized file: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_
+I 05/24/2018 15:31:28:919 00003f0c                  APP|    - load [C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_en]
+I 05/24/2018 15:31:28:919 00003f0c              RhoRuby| require_compiled: C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_en
+I 05/24/2018 15:31:28:919 00003f0c              RhoRuby| require_compiled: indifferent_access
+I 05/24/2018 15:31:28:919 00003f0c              RhoRuby| require_compiled: rho/rhosupport
+I 05/24/2018 15:31:28:935 00003f0c              RhoRuby| require_compiled: rho/rhocontroller
+I 05/24/2018 15:31:28:935 00003f0c              RhoRuby| require_compiled: rho/render
+I 05/24/2018 15:31:28:935 00003f0c              RhoRuby| require_compiled: rho/rho
+I 05/24/2018 15:31:28:950 00003f0c              RhoRuby| require_compiled: rho/rhoerror
+I 05/24/2018 15:31:28:950 00003f0c              RhoRuby| require_compiled: rhodes
+I 05/24/2018 15:31:28:950 00003f0c                  APP| Looking for RhoConnectClient
+I 05/24/2018 15:31:28:950 00003f0c                  APP| RhoConnectClient found. do nothing
+E 05/24/2018 15:31:28:950 00003f0c              RhoRuby| require_compiled: error: can not find rhodes_translator
+I 05/24/2018 15:31:28:966 00003f0c              RhoRuby| require_compiled: rho/rhoviewhelpers
+I 05/24/2018 15:31:28:966 00003f0c              RhoRuby| require_compiled: rho
+I 05/24/2018 15:31:28:966 00003f0c                  APP| RHOSTUDIO_REMOTE_DEBUG=false
+I 05/24/2018 15:31:28:966 00003f0c                  APP| RHOSTUDIO_REMOTE_HOST=
+I 05/24/2018 15:31:28:966 00003f0c                  APP| RHOSTUDIO_REMOTE_PATH=
+I 05/24/2018 15:31:28:966 00003f0c              RhoRuby| require_compiled: debugger
+I 05/24/2018 15:31:28:982 00003f0c              RhoRuby| require_compiled: uri
+I 05/24/2018 15:31:28:982 00003f0c              RhoRuby| require_compiled: uri/common
+I 05/24/2018 15:31:28:982 00003f0c              RhoRuby| require_compiled: uri/generic
+I 05/24/2018 15:31:29:008 00003f0c              RhoRuby| require_compiled: uri/ftp
+I 05/24/2018 15:31:29:014 00003f0c              RhoRuby| require_compiled: uri/http
+I 05/24/2018 15:31:29:016 00003f0c              RhoRuby| require_compiled: uri/https
+I 05/24/2018 15:31:29:019 00003f0c              RhoRuby| require_compiled: uri/ldap
+I 05/24/2018 15:31:29:022 00003f0c              RhoRuby| require_compiled: uri/ldaps
+I 05/24/2018 15:31:29:024 00003f0c              RhoRuby| require_compiled: uri/mailto
+I 05/24/2018 15:31:29:026 00003f0c              RhoRuby| require_compiled: timeout
+I 05/24/2018 15:31:29:026 00003f0c                  APP| [Debugger] Opening connection
+I 05/24/2018 15:31:29:026 00003f0c                  APP| [Debugger] host=127.0.0.1
+I 05/24/2018 15:31:29:026 00003f0c                  APP| [Debugger] port=9000
+I 05/24/2018 15:31:29:040 00003f0c                  APP| [Debugger] path=C:/Users/zc13224/source/repos/CivicsPracticeTest/app/
+I 05/24/2018 15:31:30:052 00003f0c                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: No connection could be made because the target machine actively refused it. - connect(2)>
+I 05/24/2018 15:31:30:052 00003f0c                  APP| RHO loaded
+I 05/24/2018 15:31:30:052 00003f0c                  APP| Calling RHO.initialize , use_new_orm: 0
+I 05/24/2018 15:31:30:052 00003f0c                  APP| MZV_DEBUG: we are in use_new_orm false false
+I 05/24/2018 15:31:30:052 00003f0c                   DB| Open DB: C:/Users/zc13224/source/repos/CivicsPracticeTest/rhosimulator/db/syncdbapp.sqlite
+I 05/24/2018 15:31:30:224 00003f0c                   DB| Open DB: C:/Users/zc13224/source/repos/CivicsPracticeTest/rhosimulator/db/syncdbuser.sqlite
+I 05/24/2018 15:31:30:377 00003f0c                   DB| Open DB: C:/Users/zc13224/source/repos/CivicsPracticeTest/rhosimulator/db/syncdblocal.sqlite
+I 05/24/2018 15:31:30:516 00003f0c              RhoRuby| require_compiled: rhom
+I 05/24/2018 15:31:30:516 00003f0c              RhoRuby| require_compiled: rhom/rhom
+I 05/24/2018 15:31:30:532 00003f0c              RhoRuby| require_compiled: rhom/rhom_object_factory
+I 05/24/2018 15:31:30:547 00003f0c              RhoRuby| require_compiled: rhom/rhom_object
+I 05/24/2018 15:31:30:547 00003f0c              RhoRuby| require_compiled: rhom/rhom_model
+I 05/24/2018 15:31:30:563 00003f0c              RhoRuby| require_compiled: rhom/rhom_source
+I 05/24/2018 15:31:30:563 00003f0c              RhoRuby| require_compiled: rhoappmanifest
+I 05/24/2018 15:31:30:563 00003f0c              RhoRuby| require_compiled: find
+I 05/24/2018 15:31:30:563 00003f0c          GeoLocation| Creating singleton instance.
+I 05/24/2018 15:31:30:579 00003f0c            RhodesApp| Starting sync engine...
+I 05/24/2018 15:31:30:579 00003f0c          RhoThreadQT| RHOQT CRhoThreadImpl cons-before InitializeCriticalSections
+I 05/24/2018 15:31:30:579 00003f0c                 Sync| sync_poll_interval: 0
+I 05/24/2018 15:31:30:579 00003f0c                 Sync| syncserver: 
+I 05/24/2018 15:31:30:579 00003f0c                 Sync| bulksync_state: 0
+I 05/24/2018 15:31:30:579 00003f0c            RhodesApp| RhoRubyInitApp...
+I 05/24/2018 15:31:30:579 00003b68                 Sync| Starting main routine...
+I 05/24/2018 15:31:30:579 00003f0c                  APP| init_app
+I 05/24/2018 15:31:30:579 00003b68                 Sync| ThreadQueue blocked for 4294967295 seconds...
+I 05/24/2018 15:31:30:594 00003f0c              RhoRuby| require_compiled: application
+I 05/24/2018 15:31:30:594 00003b68          RhoThreadQT| RHOQT wait
+I 05/24/2018 15:31:30:594 00003f0c           HttpServer| Start HTTP server
+I 05/24/2018 15:31:30:594 00003b68          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/24/2018 15:31:30:594 00003f0c           HttpServer| Listen for connections on port 55843
+I 05/24/2018 15:31:30:594 00003b68          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/24/2018 15:31:30:594 00003f0c         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
+I 05/24/2018 15:31:30:594 00003f0c          RhoThreadQT| RHOQT stopWait
+I 05/24/2018 15:31:30:610 00003f0c          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/24/2018 15:31:30:719 00003f0c          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/24/2018 15:31:30:719 00003f0c          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/24/2018 15:31:30:719 00004134          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/24/2018 15:31:30:719 00004134          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/24/2018 15:31:30:719 00004134          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/24/2018 15:31:30:719 00004134          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/24/2018 15:31:30:719 00004134         AppCallbacks| LOCAL-SERVER-STARTED is received ++++++++++++++++++++++++++++
+I 05/24/2018 15:31:30:719 00004134         AppCallbacks| process command: LOCAL-SERVER-STARTED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/24/2018 15:31:30:719 00004134           SystemImpl| rho_sys_report_app_started() has no implementation in RhoSimulator.
+I 05/24/2018 15:31:30:735 00004134         AppCallbacks| process command: UI-CREATED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/24/2018 15:31:30:735 00004134                  Net| Method: GET;Url: http://127.0.0.1:55843/system/uicreated
+I 05/24/2018 15:31:30:751 00003f0c           HttpServer| Process URI: '/system/uicreated'
+I 05/24/2018 15:31:30:751 00003f0c                  APP| on_ui_created.navigate to start url: '/app'
+I 05/24/2018 15:31:30:751 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:31:30:751 00004134         AppCallbacks| process command: APP-ACTIVATED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/24/2018 15:31:30:751 00004134                  Net| Method: GET;Url: http://127.0.0.1:55843/system/activateapp
+I 05/24/2018 15:31:30:766 00004134                  Net| initConnection-Internet handle present
+I 05/24/2018 15:31:30:766 00003f0c           HttpServer| Process URI: '/system/activateapp'
+I 05/24/2018 15:31:30:766 00003f0c                  APP| AppEvent Activated
+I 05/24/2018 15:31:30:766 00004134         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/24/2018 15:31:30:766 00004134          RhoThreadQT| RHOQT wait
+I 05/24/2018 15:31:30:766 00004134          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/24/2018 15:31:30:766 00004134          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/24/2018 15:31:31:844 00003f0c           HttpServer| Process URI: '/app'
+I 05/24/2018 15:31:31:860 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:31:31:860 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:31:31:860 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:31:31:860 00003f0c              RhoRuby| require_compiled: erb
+I 05/24/2018 15:31:31:860 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:31:31:876 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:31:31:878 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:31:31:891 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:31:31:893 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:31:31:894 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:31:31:897 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:31:31:907 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:31:31:919 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:31:31:950 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:31:31:966 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:31:31:981 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:31:31:997 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:31:31:997 00003f0c           HttpServer| Process URI: '/favicon.ico'
+E 05/24/2018 15:31:32:012 00003f0c           HttpServer| The file /favicon.ico was not found
+I 05/24/2018 15:31:32:012 00003ea8         QtMainWindow| Page load complete.
+I 05/24/2018 15:31:32:028 00003ea8           JavaScript| Console message at http://127.0.0.1:55843/app/index.erb:43
+I 05/24/2018 15:31:32:028 00003ea8           JavaScript| true
+E 05/24/2018 15:31:42:762 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:31:42:762 00003f0c           HttpServer| Parsing error
+I 05/24/2018 15:31:47:063 00003ea8         QtMainWindow| WebView: loading...
+E 05/24/2018 15:31:49:722 00003ea8         QtMainWindow| Page load failed.
+I 05/24/2018 15:31:49:722 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:31:49:722 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:31:49:722 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:31:49:722 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:31:49:722 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:31:49:722 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:31:49:737 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:31:49:737 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:31:49:737 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:31:49:737 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:31:49:753 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:31:49:784 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:31:49:784 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:31:49:784 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:31:49:784 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:31:49:784 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:31:49:816 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:31:49:816 00003ea8         QtMainWindow| Page load complete.
+I 05/24/2018 15:31:49:831 00003ea8           JavaScript| Console message at http://127.0.0.1:55843/app/index.erb:43
+I 05/24/2018 15:31:49:831 00003ea8           JavaScript| true
+I 05/24/2018 15:31:52:129 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:31:52:144 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:31:52:144 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:31:52:144 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:31:52:144 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:31:52:144 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:31:52:144 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:31:52:144 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:31:52:160 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:31:52:160 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:31:52:160 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:31:52:160 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:31:52:176 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:31:52:213 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:31:52:216 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:31:52:218 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:31:52:228 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:31:52:235 00003ea8         QtMainWindow| Page load complete.
+I 05/24/2018 15:31:52:237 00003ea8           JavaScript| Console message at http://127.0.0.1:55843/app/index.erb:43
+I 05/24/2018 15:31:52:238 00003ea8           JavaScript| true
+I 05/24/2018 15:31:56:054 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:31:56:070 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:31:56:070 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:31:56:070 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:31:56:070 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:31:56:070 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:31:56:070 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:31:56:070 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:31:56:085 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:31:56:085 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:31:56:085 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:31:56:085 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:31:56:085 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:31:56:085 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:31:56:101 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:31:56:101 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:31:56:117 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:31:56:132 00003ea8         QtMainWindow| Page load complete.
+I 05/24/2018 15:31:56:132 00003ea8           JavaScript| Console message at undefined:0
+I 05/24/2018 15:31:56:132 00003ea8           JavaScript| Get unknown property: hasWifiNetworka
+E 05/24/2018 15:32:06:814 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:32:06:818 00003f0c           HttpServer| Parsing error
+I 05/24/2018 15:32:15:664 00003ea8         QtMainWindow| WebView: loading...
+E 05/24/2018 15:32:18:049 00003ea8         QtMainWindow| Page load failed.
+I 05/24/2018 15:32:18:051 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:32:18:051 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:32:18:051 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:32:18:051 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:32:18:051 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:32:18:051 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:32:18:051 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:32:18:067 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:32:18:067 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:32:18:067 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:32:18:082 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:32:18:098 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:32:18:098 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:32:18:098 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:32:18:098 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:32:18:098 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:32:18:114 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:32:18:129 00003ea8         QtMainWindow| Page load complete.
+I 05/24/2018 15:32:18:129 00003ea8           JavaScript| Console message at http://127.0.0.1:55843/app/index.erb:43
+I 05/24/2018 15:32:18:129 00003ea8           JavaScript| true
+I 05/24/2018 15:32:20:018 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:32:20:018 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:32:20:018 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:32:20:034 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:32:20:036 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:32:20:038 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:32:20:040 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:32:20:043 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:32:20:045 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:32:20:046 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:32:20:049 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:32:20:053 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:32:20:073 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:32:20:140 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:32:20:140 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:32:20:140 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:32:20:155 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:32:20:155 00003ea8         QtMainWindow| Page load complete.
+I 05/24/2018 15:32:20:155 00003ea8           JavaScript| Console message at http://127.0.0.1:55843/app/index.erb:43
+I 05/24/2018 15:32:20:155 00003ea8           JavaScript| true
+I 05/24/2018 15:32:29:727 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:32:29:727 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:32:29:743 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:32:29:743 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:32:29:743 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:32:29:743 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:32:29:743 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:32:29:743 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:32:29:743 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:32:29:743 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:32:29:759 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:32:29:759 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:32:29:759 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:32:29:759 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:32:29:821 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:32:29:821 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:32:29:821 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:32:29:837 00003ea8         QtMainWindow| Page load complete.
+I 05/24/2018 15:32:29:837 00003ea8           JavaScript| Console message at http://127.0.0.1:55843/app/index.erb:43
+I 05/24/2018 15:32:29:837 00003ea8           JavaScript| true
+E 05/24/2018 15:32:40:569 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:32:40:569 00003f0c           HttpServer| Parsing error
+E 05/24/2018 15:32:51:272 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:32:51:272 00003f0c           HttpServer| Parsing error
+E 05/24/2018 15:33:02:023 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:33:02:023 00003f0c           HttpServer| Parsing error
+I 05/24/2018 15:35:05:008 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:35:05:013 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:35:05:016 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:35:05:018 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:35:05:020 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:35:05:022 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:35:05:024 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:35:05:026 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:35:05:029 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:35:05:029 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:35:05:033 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:35:05:036 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:35:05:047 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:35:05:051 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:35:05:054 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:35:05:058 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:35:05:080 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:35:05:088 00003ea8         QtMainWindow| Page load complete.
+E 05/24/2018 15:35:15:110 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:35:15:113 00003f0c           HttpServer| Parsing error
+E 05/24/2018 15:35:25:241 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:35:25:246 00003f0c           HttpServer| Parsing error
+I 05/24/2018 15:35:35:216 00003ea8         QtMainWindow| WebView: loading...
+E 05/24/2018 15:35:37:095 00003ea8         QtMainWindow| Page load failed.
+I 05/24/2018 15:35:37:099 00003ea8         QtMainWindow| WebView: loading...
+E 05/24/2018 15:35:38:959 00003ea8         QtMainWindow| Page load failed.
+I 05/24/2018 15:35:38:963 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:35:38:966 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:35:38:969 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:35:38:972 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:35:38:974 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:35:38:976 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:35:38:978 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:35:38:981 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:35:38:983 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:35:38:983 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:35:38:987 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:35:38:999 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:35:39:033 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:35:39:038 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:35:39:040 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:35:39:042 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:35:39:064 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:35:39:071 00003ea8         QtMainWindow| Page load complete.
+E 05/24/2018 15:35:49:093 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:35:49:096 00003f0c           HttpServer| Parsing error
+I 05/24/2018 15:35:59:678 00003ea8         QtMainWindow| WebView: loading...
+E 05/24/2018 15:36:01:435 00003ea8         QtMainWindow| Page load failed.
+I 05/24/2018 15:36:01:441 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:36:01:453 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:36:01:462 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:36:01:466 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:36:01:469 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:36:01:476 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:36:01:480 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:36:01:490 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:36:01:499 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:36:01:500 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:36:01:517 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:36:01:531 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:36:01:544 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:36:01:561 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:36:01:570 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:36:01:582 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:36:01:754 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:36:01:799 00003ea8         QtMainWindow| Page load complete.
+E 05/24/2018 15:36:11:651 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:36:11:654 00003f0c           HttpServer| Parsing error
+I 05/24/2018 15:37:00:423 00003ea8         QtMainWindow| WebView: loading...
+E 05/24/2018 15:37:03:215 00003ea8         QtMainWindow| Page load failed.
+I 05/24/2018 15:37:03:219 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:37:03:223 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:37:03:225 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:37:03:227 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:37:03:229 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:37:03:231 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:37:03:234 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:37:03:237 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:37:03:239 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:37:03:240 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:37:03:242 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:37:03:246 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:37:03:255 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:37:03:259 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:37:03:264 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:37:03:267 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:37:03:292 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:37:03:298 00003ea8         QtMainWindow| Page load complete.
+I 05/24/2018 15:37:07:224 00003ea8         QtMainWindow| WebView: loading...
+I 05/24/2018 15:37:07:229 00003f0c           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 15:37:07:232 00003f0c                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 15:37:07:233 00003f0c RHO Rho::RhoController| inst_render_index
+I 05/24/2018 15:37:07:235 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/index.erb
+I 05/24/2018 15:37:07:237 00003f0c RHO Rho::RhoController| index layout
+I 05/24/2018 15:37:07:240 00003f0c                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/CivicsPracticeTest/app/layout.erb
+I 05/24/2018 15:37:07:243 00003f0c           HttpServer| GC Start.
+I 05/24/2018 15:37:07:245 00003ea8         QtMainWindow| WebView: URL changed to http://127.0.0.1:55843/app/index.erb
+I 05/24/2018 15:37:07:246 00003f0c           HttpServer| GC End.
+I 05/24/2018 15:37:07:249 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 15:37:07:253 00003f0c           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 15:37:07:255 00003f0c           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 15:37:07:261 00003f0c           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 15:37:07:267 00003f0c           HttpServer| Process URI: '/public/js/navigator.js'
+I 05/24/2018 15:37:07:269 00003f0c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 15:37:07:294 00003ea8               NewORM| calling useNewOrm
+I 05/24/2018 15:37:07:304 00003ea8         QtMainWindow| Page load complete.
+E 05/24/2018 15:37:17:318 00003f0c           HttpServer| Error when receiving data from socket. Client does not send data for 10 sec. Cancel recieve.
+E 05/24/2018 15:37:17:321 00003f0c           HttpServer| Parsing error

@@ -1,591 +1,591 @@
 <?xml version="1.0" encoding="ASCII"?>
-<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="500" environment="org.eclipse.dltk.core.environment.localEnvironment">
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/Rakefile" timestamp="1526592864168" lastAccessTime="1527172859978">
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="540" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/Rakefile" timestamp="1526592864168" lastAccessTime="1527192684329">
     <attributes name="indexed" location="2838196607/3214019923/239.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/base64.rb" timestamp="1516845270000" lastAccessTime="1527172859962">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/base64.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/3863296673/99.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework" timestamp="1525469253978" lastAccessTime="1526751385776">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework" timestamp="1525469253978" lastAccessTime="1527193555231">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2433835949/9.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/bsearch.rb" timestamp="1516845270000" lastAccessTime="1527172859998">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/bsearch.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/3863296673/181.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/builtinME.rb" timestamp="1516845270000" lastAccessTime="1527172859832">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/builtinME.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/3863296673/213.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/date.rb" timestamp="1516845270000" lastAccessTime="1527172859902">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/date.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/3863296673/201.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/dateME.rb" timestamp="1516845270000" lastAccessTime="1527172859878">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/dateME.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/3863296673/275.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/dateOrig.rb" timestamp="1516845270000" lastAccessTime="1527172859984">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/dateOrig.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/3863296673/373.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/erb.rb" timestamp="1516845270000" lastAccessTime="1527172859987">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/erb.rb" timestamp="1516845270000" lastAccessTime="1527193555220">
     <attributes name="indexed" location="2838196607/3863296673/69.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/find.rb" timestamp="1516845270000" lastAccessTime="1527172859819">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/find.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/3863296673/91.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/indifferent_access.rb" timestamp="1516845270000" lastAccessTime="1527172859906">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/indifferent_access.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/3863296673/431.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/ostruct.rb" timestamp="1516845270000" lastAccessTime="1527172859937">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/ostruct.rb" timestamp="1516845270000" lastAccessTime="1527193555214">
     <attributes name="indexed" location="2838196607/3863296673/175.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rational.rb" timestamp="1516845270000" lastAccessTime="1527172859985">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rational.rb" timestamp="1516845270000" lastAccessTime="1527193555209">
     <attributes name="indexed" location="2838196607/3863296673/265.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rational18.rb" timestamp="1516845270000" lastAccessTime="1527172859974">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rational18.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/3863296673/393.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rationalME.rb" timestamp="1516845270000" lastAccessTime="1527172859988">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rationalME.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/3863296673/195.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rbconfig.rb" timestamp="1516845270000" lastAccessTime="1527172859854">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rbconfig.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/3863296673/355.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho.rb" timestamp="1516845270000" lastAccessTime="1527172859982">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/3863296673/419.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhoappmanifest.rb" timestamp="1516845270000" lastAccessTime="1527172859950">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhoappmanifest.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/3863296673/399.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhodes-framework.rb" timestamp="1516845270000" lastAccessTime="1527172859909">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhodes-framework.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/3863296673/249.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhodes.rb" timestamp="1516845270000" lastAccessTime="1527172859869">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhodes.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/3863296673/327.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhoframework.rb" timestamp="1516845270000" lastAccessTime="1527172859986">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhoframework.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/3863296673/283.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom.rb" timestamp="1516845270000" lastAccessTime="1527172859840">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom.rb" timestamp="1516845270000" lastAccessTime="1527193555228">
     <attributes name="indexed" location="2838196607/3863296673/237.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhosystem.rb" timestamp="1516845270000" lastAccessTime="1527172859901">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhosystem.rb" timestamp="1516845270000" lastAccessTime="1527193555231">
     <attributes name="indexed" location="2838196607/3863296673/333.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhosystem_wp8.rb" timestamp="1516845270000" lastAccessTime="1527172860000">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhosystem_wp8.rb" timestamp="1516845270000" lastAccessTime="1527193555083">
     <attributes name="indexed" location="2838196607/3863296673/65.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/singleton.rb" timestamp="1516845270000" lastAccessTime="1527172859938">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/singleton.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/3863296673/301.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/stringio.rb" timestamp="1516845270000" lastAccessTime="1527172859992">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/stringio.rb" timestamp="1516845270000" lastAccessTime="1527193555212">
     <attributes name="indexed" location="2838196607/3863296673/209.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/time.rb" timestamp="1516845270000" lastAccessTime="1527172859848">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/time.rb" timestamp="1516845270000" lastAccessTime="1527193555114">
     <attributes name="indexed" location="2838196607/3863296673/417.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/version.rb" timestamp="1516845270000" lastAccessTime="1527172859898">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/version.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/3863296673/421.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/AddressBar.rb" timestamp="1516845270000" lastAccessTime="1527172859904">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/AddressBar.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/405.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete" timestamp="1525469253372" lastAccessTime="1526751385776">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete" timestamp="1525469253372" lastAccessTime="1527193555232">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3863296673/11.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Alarm.rb" timestamp="1516845270000" lastAccessTime="1527172859853">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Alarm.rb" timestamp="1516845270000" lastAccessTime="1527193555215">
     <attributes name="indexed" location="2838196607/1371194320/93.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Alert.rb" timestamp="1516845270000" lastAccessTime="1527172859935">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Alert.rb" timestamp="1516845270000" lastAccessTime="1527193555098">
     <attributes name="indexed" location="2838196607/1371194320/375.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/AppApplication.rb" timestamp="1516845270000" lastAccessTime="1527172859870">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/AppApplication.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/363.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/AppSwitcher.rb" timestamp="1516845270000" lastAccessTime="1527172859989">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/AppSwitcher.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/83.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Application.rb" timestamp="1516845270000" lastAccessTime="1527172859968">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Application.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/357.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/AudioCapture.rb" timestamp="1516845270000" lastAccessTime="1527172859960">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/AudioCapture.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/149.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/BackButton.rb" timestamp="1516845270000" lastAccessTime="1527172859930">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/BackButton.rb" timestamp="1516845270000" lastAccessTime="1527193555214">
     <attributes name="indexed" location="2838196607/1371194320/305.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Backlight.rb" timestamp="1516845270000" lastAccessTime="1527172859983">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Backlight.rb" timestamp="1516845270000" lastAccessTime="1527193555216">
     <attributes name="indexed" location="2838196607/1371194320/223.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Barcode.rb" timestamp="1516845270000" lastAccessTime="1527172859952">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Barcode.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/385.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/BasicSocket.rb" timestamp="1516845270000" lastAccessTime="1527172859959">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/BasicSocket.rb" timestamp="1516845270000" lastAccessTime="1527193555214">
     <attributes name="indexed" location="2838196607/1371194320/369.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Battery.rb" timestamp="1516845270000" lastAccessTime="1527172859830">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Battery.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/177.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/BottomCommandArea.rb" timestamp="1516845270000" lastAccessTime="1527172859941">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/BottomCommandArea.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/229.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/BrowserHelper.rb" timestamp="1516845270000" lastAccessTime="1527172859841">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/BrowserHelper.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/103.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Bsearch.rb" timestamp="1516845270000" lastAccessTime="1527172859866">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Bsearch.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/185.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Camera.rb" timestamp="1516845270000" lastAccessTime="1527172859994">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Camera.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/339.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/CardReader.rb" timestamp="1516845270000" lastAccessTime="1527172859838">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/CardReader.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/323.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Comm.rb" timestamp="1516845270000" lastAccessTime="1527172859821">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Comm.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/257.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Cradle.rb" timestamp="1516845270000" lastAccessTime="1527172859862">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Cradle.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/155.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Date.rb" timestamp="1516845270000" lastAccessTime="1527172859949">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Date.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/117.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/DateTime.rb" timestamp="1516845270000" lastAccessTime="1527172859958">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/DateTime.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/235.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/DateTimePicker.rb" timestamp="1516845270000" lastAccessTime="1527172859957">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/DateTimePicker.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/383.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Device.rb" timestamp="1516845270000" lastAccessTime="1527172859998">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Device.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/145.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Digest.rb" timestamp="1516845270000" lastAccessTime="1527172859963">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Digest.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/387.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Dir.rb" timestamp="1516845270000" lastAccessTime="1527172859968">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Dir.rb" timestamp="1516845270000" lastAccessTime="1527193555228">
     <attributes name="indexed" location="2838196607/1371194320/273.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Eink.rb" timestamp="1516845270000" lastAccessTime="1527172859938">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Eink.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/371.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/EmmlProfile.rb" timestamp="1516845270000" lastAccessTime="1527172859999">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/EmmlProfile.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/391.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/File.rb" timestamp="1516845270000" lastAccessTime="1527172859842">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/File.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/129.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/FileTransfer.rb" timestamp="1516845270000" lastAccessTime="1527172859929">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/FileTransfer.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/261.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ForwardButton.rb" timestamp="1516845270000" lastAccessTime="1527172859894">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ForwardButton.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/255.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/GeneratorController.rb" timestamp="1516845270000" lastAccessTime="1527172859823">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/GeneratorController.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/243.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/GeoLocation.rb" timestamp="1516845270000" lastAccessTime="1527172859931">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/GeoLocation.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/377.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Gesture.rb" timestamp="1516845270000" lastAccessTime="1527172859944">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Gesture.rb" timestamp="1516845270000" lastAccessTime="1527193555215">
     <attributes name="indexed" location="2838196607/1371194320/215.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/GoButton.rb" timestamp="1516845270000" lastAccessTime="1527172859822">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/GoButton.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/211.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/HashWithIndifferentAccess.rb" timestamp="1516845270000" lastAccessTime="1527172859969">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/HashWithIndifferentAccess.rb" timestamp="1516845270000" lastAccessTime="1527193555231">
     <attributes name="indexed" location="2838196607/1371194320/365.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/History.rb" timestamp="1516845270000" lastAccessTime="1527172859955">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/History.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/167.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/HomeButton.rb" timestamp="1516845270000" lastAccessTime="1527172859981">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/HomeButton.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/187.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Hourglass.rb" timestamp="1516845270000" lastAccessTime="1527172859895">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Hourglass.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/135.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/IPSocket.rb" timestamp="1516845270000" lastAccessTime="1527172859894">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/IPSocket.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/311.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Imager.rb" timestamp="1516845270000" lastAccessTime="1527172859952">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Imager.rb" timestamp="1516845270000" lastAccessTime="1527193555209">
     <attributes name="indexed" location="2838196607/1371194320/379.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/IoAnalog.rb" timestamp="1516845270000" lastAccessTime="1527172859834">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/IoAnalog.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/79.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/IoDigital.rb" timestamp="1516845270000" lastAccessTime="1527172859877">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/IoDigital.rb" timestamp="1516845270000" lastAccessTime="1527193555227">
     <attributes name="indexed" location="2838196607/1371194320/289.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/IoSystem.rb" timestamp="1516845270000" lastAccessTime="1527172859966">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/IoSystem.rb" timestamp="1516845270000" lastAccessTime="1527193555218">
     <attributes name="indexed" location="2838196607/1371194320/137.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/JSON.rb" timestamp="1516845270000" lastAccessTime="1527172859983">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/JSON.rb" timestamp="1516845270000" lastAccessTime="1527193555220">
     <attributes name="indexed" location="2838196607/1371194320/67.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/KeyCapture.rb" timestamp="1516845270000" lastAccessTime="1527172859828">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/KeyCapture.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/191.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/KeyState.rb" timestamp="1516845270000" lastAccessTime="1527172859956">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/KeyState.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/259.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Keylight.rb" timestamp="1516845270000" lastAccessTime="1527172859914">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Keylight.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/81.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Lightsensor.rb" timestamp="1516845270000" lastAccessTime="1527172859969">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Lightsensor.rb" timestamp="1516845270000" lastAccessTime="1527193555225">
     <attributes name="indexed" location="2838196607/1371194320/337.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/LocalizationSimplified.rb" timestamp="1516845270000" lastAccessTime="1527172859892">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/LocalizationSimplified.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/141.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/MapView.rb" timestamp="1516845270000" lastAccessTime="1527172859995">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/MapView.rb" timestamp="1516845270000" lastAccessTime="1527193555114">
     <attributes name="indexed" location="2838196607/1371194320/435.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/MediaPlayer.rb" timestamp="1516845270000" lastAccessTime="1527172859862">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/MediaPlayer.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/143.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Memory.rb" timestamp="1516845270000" lastAccessTime="1527172859943">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Memory.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/359.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/MinimizeButton.rb" timestamp="1516845270000" lastAccessTime="1527172859945">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/MinimizeButton.rb" timestamp="1516845270000" lastAccessTime="1527193555218">
     <attributes name="indexed" location="2838196607/1371194320/425.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/NativeBar.rb" timestamp="1516845270000" lastAccessTime="1527172859958">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/NativeBar.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/245.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/NavBar.rb" timestamp="1516845270000" lastAccessTime="1527172859890">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/NavBar.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/105.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Network.rb" timestamp="1516845270000" lastAccessTime="1527172859824">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Network.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/397.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Notification.rb" timestamp="1516845270000" lastAccessTime="1527172859925">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Notification.rb" timestamp="1516845270000" lastAccessTime="1527193555217">
     <attributes name="indexed" location="2838196607/1371194320/109.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/OpenSSL.rb" timestamp="1516845270000" lastAccessTime="1527172859836">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/OpenSSL.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/173.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Phonebook.rb" timestamp="1516845270000" lastAccessTime="1527172859919">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Phonebook.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/119.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/PowerOn.rb" timestamp="1516845270000" lastAccessTime="1527172859951">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/PowerOn.rb" timestamp="1516845270000" lastAccessTime="1527193555217">
     <attributes name="indexed" location="2838196607/1371194320/189.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Push.rb" timestamp="1516845270000" lastAccessTime="1527172860000">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Push.rb" timestamp="1516845270000" lastAccessTime="1527193555213">
     <attributes name="indexed" location="2838196607/1371194320/343.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/QuitButton.rb" timestamp="1516845270000" lastAccessTime="1527172859945">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/QuitButton.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/295.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RHO_APPS_DIR.rb" timestamp="1516845270000" lastAccessTime="1527172859947">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RHO_APPS_DIR.rb" timestamp="1516845270000" lastAccessTime="1527193555208">
     <attributes name="indexed" location="2838196607/1371194320/433.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RHO_ERB_EXT.rb" timestamp="1516845270000" lastAccessTime="1527172859839">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RHO_ERB_EXT.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/345.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RHO_FRAMEWORK.rb" timestamp="1516845270000" lastAccessTime="1527172859917">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RHO_FRAMEWORK.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/165.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RHO_RB_EXT.rb" timestamp="1516845270000" lastAccessTime="1527172859949">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RHO_RB_EXT.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/349.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RawSensors.rb" timestamp="1516845270000" lastAccessTime="1527172859848">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RawSensors.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/287.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Reboot.rb" timestamp="1516845270000" lastAccessTime="1527172859872">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Reboot.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/251.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Registry.rb" timestamp="1516845270000" lastAccessTime="1527172859977">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Registry.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/203.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ReloadButton.rb" timestamp="1516845270000" lastAccessTime="1527172859982">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ReloadButton.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/381.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rfid.rb" timestamp="1516845270000" lastAccessTime="1527172859939">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rfid.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/411.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rho.rb" timestamp="1516845270000" lastAccessTime="1527172859988">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rho.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/313.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoBluetooth.rb" timestamp="1516845270000" lastAccessTime="1527172859996">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoBluetooth.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/307.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoConf.rb" timestamp="1516845270000" lastAccessTime="1527172859834">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoConf.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/101.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoElementsExt.rb" timestamp="1516845270000" lastAccessTime="1527172859946">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoElementsExt.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/443.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoLog.rb" timestamp="1516845270000" lastAccessTime="1527172859916">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoLog.rb" timestamp="1516845270000" lastAccessTime="1527193555098">
     <attributes name="indexed" location="2838196607/1371194320/297.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoProfiler.rb" timestamp="1516845270000" lastAccessTime="1527172859936">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoProfiler.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/157.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoStdout.rb" timestamp="1516845270000" lastAccessTime="1527172859822">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhoStdout.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/71.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rhodes.rb" timestamp="1516845270000" lastAccessTime="1527172859972">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rhodes.rb" timestamp="1516845270000" lastAccessTime="1527193555225">
     <attributes name="indexed" location="2838196607/1371194320/351.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhodesNativeViewManager.rb" timestamp="1516845270000" lastAccessTime="1527172859965">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/RhodesNativeViewManager.rb" timestamp="1516845270000" lastAccessTime="1527193555216">
     <attributes name="indexed" location="2838196607/1371194320/219.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rhom.rb" timestamp="1516845270000" lastAccessTime="1527172859905">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rhom.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/159.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rsm.rb" timestamp="1516845270000" lastAccessTime="1527172859920">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Rsm.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/131.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SQLite3.rb" timestamp="1516845270000" lastAccessTime="1527172859942">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SQLite3.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/335.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SWIG.rb" timestamp="1516845270000" lastAccessTime="1527172859884">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SWIG.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/225.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ScanError.rb" timestamp="1516845270000" lastAccessTime="1527172859921">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ScanError.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/153.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Scanner.rb" timestamp="1516845270000" lastAccessTime="1527172859961">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Scanner.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/233.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ScreenOrientation.rb" timestamp="1516845270000" lastAccessTime="1527172859885">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ScreenOrientation.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/205.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SignatureCapture.rb" timestamp="1516845270000" lastAccessTime="1527172859971">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SignatureCapture.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/367.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SignatureTool.rb" timestamp="1516845270000" lastAccessTime="1527172859992">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SignatureTool.rb" timestamp="1516845270000" lastAccessTime="1527193555228">
     <attributes name="indexed" location="2838196607/1371194320/95.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Sip.rb" timestamp="1516845270000" lastAccessTime="1527172859923">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Sip.rb" timestamp="1516845270000" lastAccessTime="1527193555210">
     <attributes name="indexed" location="2838196607/1371194320/73.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SipButton.rb" timestamp="1516845270000" lastAccessTime="1527172859856">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SipButton.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/309.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Sntp.rb" timestamp="1516845270000" lastAccessTime="1527172859953">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Sntp.rb" timestamp="1516845270000" lastAccessTime="1527193555210">
     <attributes name="indexed" location="2838196607/1371194320/263.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Socket.rb" timestamp="1516845270000" lastAccessTime="1527172859928">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Socket.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/111.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SocketError.rb" timestamp="1516845270000" lastAccessTime="1527172859990">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SocketError.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/207.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/StopButton.rb" timestamp="1516845270000" lastAccessTime="1527172859901">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/StopButton.rb" timestamp="1516845270000" lastAccessTime="1527193555216">
     <attributes name="indexed" location="2838196607/1371194320/403.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/StringIO.rb" timestamp="1516845270000" lastAccessTime="1527172859911">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/StringIO.rb" timestamp="1516845270000" lastAccessTime="1527193555114">
     <attributes name="indexed" location="2838196607/1371194320/75.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/StringScanner.rb" timestamp="1516845270000" lastAccessTime="1527172859940">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/StringScanner.rb" timestamp="1516845270000" lastAccessTime="1527193555213">
     <attributes name="indexed" location="2838196607/1371194320/151.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Stylus.rb" timestamp="1516845270000" lastAccessTime="1527172859886">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Stylus.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/281.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SyncEngine.rb" timestamp="1516845270000" lastAccessTime="1527172859998">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SyncEngine.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/1371194320/317.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/System.rb" timestamp="1516845270000" lastAccessTime="1527172859911">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/System.rb" timestamp="1516845270000" lastAccessTime="1527193555232">
     <attributes name="indexed" location="2838196607/1371194320/415.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SystemTime.rb" timestamp="1516845270000" lastAccessTime="1527172859991">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/SystemTime.rb" timestamp="1516845270000" lastAccessTime="1527193555229">
     <attributes name="indexed" location="2838196607/1371194320/347.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/TCPServer.rb" timestamp="1516845270000" lastAccessTime="1527172859871">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/TCPServer.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/389.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/TCPSocket.rb" timestamp="1516845270000" lastAccessTime="1527172859926">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/TCPSocket.rb" timestamp="1516845270000" lastAccessTime="1527193555213">
     <attributes name="indexed" location="2838196607/1371194320/439.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Telemetry.rb" timestamp="1516845270000" lastAccessTime="1527172859997">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Telemetry.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/325.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Thread.rb" timestamp="1516845270000" lastAccessTime="1527172859902">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Thread.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/299.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Time.rb" timestamp="1516845270000" lastAccessTime="1527172859907">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Time.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1371194320/361.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Timer.rb" timestamp="1516845270000" lastAccessTime="1527172859936">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Timer.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/1371194320/413.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/TopCommandArea.rb" timestamp="1516845270000" lastAccessTime="1527172859839">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/TopCommandArea.rb" timestamp="1516845270000" lastAccessTime="1527193555223">
     <attributes name="indexed" location="2838196607/1371194320/87.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/UDPSocket.rb" timestamp="1516845270000" lastAccessTime="1527172859967">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/UDPSocket.rb" timestamp="1516845270000" lastAccessTime="1527193555226">
     <attributes name="indexed" location="2838196607/1371194320/227.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/VideoCapture.rb" timestamp="1516845270000" lastAccessTime="1527172859904">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/VideoCapture.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/127.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Volume.rb" timestamp="1516845270000" lastAccessTime="1527172859838">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Volume.rb" timestamp="1516845270000" lastAccessTime="1527193555212">
     <attributes name="indexed" location="2838196607/1371194320/123.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Wake.rb" timestamp="1516845270000" lastAccessTime="1527172859993">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Wake.rb" timestamp="1516845270000" lastAccessTime="1527193555083">
     <attributes name="indexed" location="2838196607/1371194320/231.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/WebView.rb" timestamp="1516845270000" lastAccessTime="1527172859975">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/WebView.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/221.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Wlan.rb" timestamp="1516845270000" lastAccessTime="1527172859935">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Wlan.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/319.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Zoom.rb" timestamp="1516845270000" lastAccessTime="1527172859933">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/Zoom.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/409.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ZoomInPageButton.rb" timestamp="1516845270000" lastAccessTime="1527172859977">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ZoomInPageButton.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/253.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ZoomOutPageButton.rb" timestamp="1516845270000" lastAccessTime="1527172860009">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ZoomOutPageButton.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1371194320/329.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ZoomTextButton.rb" timestamp="1516845270000" lastAccessTime="1527172859874">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/autocomplete/ZoomTextButton.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1371194320/171.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/date/format.rb" timestamp="1516845270000" lastAccessTime="1527172859970">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/date/format.rb" timestamp="1516845270000" lastAccessTime="1527193555229">
     <attributes name="indexed" location="2838196607/2731348492/291.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/date" timestamp="1525469253385" lastAccessTime="1526751385730">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/date" timestamp="1525469253385" lastAccessTime="1527193555229">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3863296673/13.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/newrhom/newrhom.rb" timestamp="1516845270000" lastAccessTime="1527172859873">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/newrhom/newrhom.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1230444209/115.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/newrhom" timestamp="1525469253414" lastAccessTime="1526751385665">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/newrhom" timestamp="1525469253414" lastAccessTime="1527193555192">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3863296673/15.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/newrhom/newrhom_model.rb" timestamp="1516845270000" lastAccessTime="1527172859876">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/newrhom/newrhom_model.rb" timestamp="1516845270000" lastAccessTime="1527193555098">
     <attributes name="indexed" location="2838196607/1230444209/63.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/newrhom/newrhom_object_factory.rb" timestamp="1516845270000" lastAccessTime="1527172859973">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/newrhom/newrhom_object_factory.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1230444209/133.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/mapview.rb" timestamp="1516845270000" lastAccessTime="1527172859823">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/mapview.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/3859129095/197.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho" timestamp="1525469253881" lastAccessTime="1526751385776">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho" timestamp="1525469253881" lastAccessTime="1527193555226">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3863296673/17.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/render.rb" timestamp="1516845270000" lastAccessTime="1527172859888">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/render.rb" timestamp="1516845270000" lastAccessTime="1527193555114">
     <attributes name="indexed" location="2838196607/3859129095/429.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rho.rb" timestamp="1516845270000" lastAccessTime="1527172859837">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rho.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/3859129095/125.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoapplication.rb" timestamp="1516845270000" lastAccessTime="1527172859980">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoapplication.rb" timestamp="1516845270000" lastAccessTime="1527193555226">
     <attributes name="indexed" location="2838196607/3859129095/331.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhobluetooth.rb" timestamp="1516845270000" lastAccessTime="1527172859957">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhobluetooth.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/3859129095/77.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhocontact.rb" timestamp="1516845270000" lastAccessTime="1527172859918">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhocontact.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/3859129095/277.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhocontroller.rb" timestamp="1516845270000" lastAccessTime="1527172859857">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhocontroller.rb" timestamp="1516845270000" lastAccessTime="1527193555222">
     <attributes name="indexed" location="2838196607/3859129095/241.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoerror.rb" timestamp="1516845270000" lastAccessTime="1527172859985">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoerror.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/3859129095/407.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoevent.rb" timestamp="1516845270000" lastAccessTime="1527172859840">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoevent.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/3859129095/147.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoevent_bb.rb" timestamp="1516845270000" lastAccessTime="1527172859857">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoevent_bb.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/3859129095/341.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoevent_c.rb" timestamp="1516845270000" lastAccessTime="1527172859915">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoevent_c.rb" timestamp="1516845270000" lastAccessTime="1527193555098">
     <attributes name="indexed" location="2838196607/3859129095/279.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhomsg.rb" timestamp="1516845270000" lastAccessTime="1527172860095">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhomsg.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/3859129095/107.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhonativeviewmanager.rb" timestamp="1516845270000" lastAccessTime="1527172859924">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhonativeviewmanager.rb" timestamp="1516845270000" lastAccessTime="1527193555220">
     <attributes name="indexed" location="2838196607/3859129095/193.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhosupport.rb" timestamp="1516845270000" lastAccessTime="1527172859954">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhosupport.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/3859129095/139.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhotabbar.rb" timestamp="1516845270000" lastAccessTime="1527172859972">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhotabbar.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/3859129095/437.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhotoolbar.rb" timestamp="1516845270000" lastAccessTime="1527172859927">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhotoolbar.rb" timestamp="1516845270000" lastAccessTime="1527193555130">
     <attributes name="indexed" location="2838196607/3859129095/395.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoutils.rb" timestamp="1516845270000" lastAccessTime="1527172859914">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoutils.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/3859129095/427.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoviewhelpers.rb" timestamp="1516845270000" lastAccessTime="1527172859940">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rho/rhoviewhelpers.rb" timestamp="1516845270000" lastAccessTime="1527193555211">
     <attributes name="indexed" location="2838196607/3859129095/303.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_en.rb" timestamp="1516845270000" lastAccessTime="1527172859909">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_en.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1140780266/97.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang" timestamp="1525469253968" lastAccessTime="1526751385776">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang" timestamp="1525469253968" lastAccessTime="1527193555223">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3863296673/19.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_es.rb" timestamp="1516845270000" lastAccessTime="1527172859889">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/lang_es.rb" timestamp="1516845270000" lastAccessTime="1527193555223">
     <attributes name="indexed" location="2838196607/1140780266/401.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/localization_simplified.rb" timestamp="1516845270000" lastAccessTime="1527172859990">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/localization_simplified.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1140780266/199.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_de.rb" timestamp="1516845270000" lastAccessTime="1527172859844">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_de.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1140780266/217.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_en.rb" timestamp="1516845270000" lastAccessTime="1527172859891">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_en.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/1140780266/267.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_es.rb" timestamp="1516845270000" lastAccessTime="1527172859859">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhoerror_es.rb" timestamp="1516845270000" lastAccessTime="1527193555083">
     <attributes name="indexed" location="2838196607/1140780266/169.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_de.rb" timestamp="1516845270000" lastAccessTime="1527172859899">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_de.rb" timestamp="1516845270000" lastAccessTime="1527193555222">
     <attributes name="indexed" location="2838196607/1140780266/89.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_en.rb" timestamp="1516845270000" lastAccessTime="1527172859933">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_en.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1140780266/161.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_es.rb" timestamp="1516845270000" lastAccessTime="1527172859910">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_es.rb" timestamp="1516845270000" lastAccessTime="1527193555161">
     <attributes name="indexed" location="2838196607/1140780266/441.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_it.rb" timestamp="1516845270000" lastAccessTime="1527172859975">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rholang/rhomsg_it.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/1140780266/121.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom.rb" timestamp="1516845270000" lastAccessTime="1527172859821">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom.rb" timestamp="1516845270000" lastAccessTime="1527193555177">
     <attributes name="indexed" location="2838196607/2139316840/285.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom" timestamp="1525469254016" lastAccessTime="1526751385751">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom" timestamp="1525469254016" lastAccessTime="1527193555220">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3863296673/21.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom_model.rb" timestamp="1516845270000" lastAccessTime="1527172859854">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom_model.rb" timestamp="1516845270000" lastAccessTime="1527193555145">
     <attributes name="indexed" location="2838196607/2139316840/183.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom_object.rb" timestamp="1516845270000" lastAccessTime="1527172859865">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom_object.rb" timestamp="1516845270000" lastAccessTime="1527193555220">
     <attributes name="indexed" location="2838196607/2139316840/247.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom_object_factory.rb" timestamp="1516845270000" lastAccessTime="1527172859976">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom_object_factory.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/2139316840/315.idx"/>
   </entries>
-  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom_source.rb" timestamp="1516845270000" lastAccessTime="1527172859919">
+  <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/rhom/rhom_source.rb" timestamp="1516845270000" lastAccessTime="1527193555192">
     <attributes name="indexed" location="2838196607/2139316840/353.idx"/>
   </entries>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Home/home.rb" timestamp="1526659694340" lastAccessTime="1526659695352"/>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/test/home_spec.rb" timestamp="1526659694345" lastAccessTime="1527172859835">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/test/home_spec.rb" timestamp="1526659694345" lastAccessTime="1527192684344">
     <attributes name="indexed" location="2838196607/3119616769/163.idx"/>
   </entries>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/helpers" timestamp="1526677317949" lastAccessTime="1527172859528">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/helpers" timestamp="1526677317949" lastAccessTime="1527192684408">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/653507635/53.idx"/>
   </entries>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/test/miner_spec.rb" timestamp="1526711405965" lastAccessTime="1527172859912">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/test/miner_spec.rb" timestamp="1526711405965" lastAccessTime="1527192684297">
     <attributes name="indexed" location="2838196607/3119616769/271.idx"/>
   </entries>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/test" timestamp="1526711405961" lastAccessTime="1526751385723">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/test" timestamp="1526711405961" lastAccessTime="1527192684344">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/653507635/59.idx"/>
   </entries>
   <entries path="C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/framework/res" timestamp="1525469253741" lastAccessTime="1526751385407"/>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/err_sync.erb" timestamp="1526592864153" lastAccessTime="1527172858792"/>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/helpers/browser_helper.rb" timestamp="1526592864278" lastAccessTime="1527172859980">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/helpers/browser_helper.rb" timestamp="1526592864278" lastAccessTime="1527192684297">
     <attributes name="indexed" location="2838196607/971045704/113.idx"/>
   </entries>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/helpers/application_helper.rb" timestamp="1526592864278" lastAccessTime="1527172859887">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/helpers/application_helper.rb" timestamp="1526592864278" lastAccessTime="1527192684251">
     <attributes name="indexed" location="2838196607/971045704/321.idx"/>
   </entries>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/.gitignore" timestamp="1526592864106" lastAccessTime="1526751385504"/>
@@ -598,36 +598,45 @@
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/production" timestamp="1526592864325" lastAccessTime="1526751385506"/>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/public" timestamp="1526712565585" lastAccessTime="1526751385506"/>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/rhoconfig.txt" timestamp="1526592864106" lastAccessTime="1526751385507"/>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/application.rb" timestamp="1526593298317" lastAccessTime="1527172859882">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/application.rb" timestamp="1526593298317" lastAccessTime="1527192684282">
     <attributes name="indexed" location="2838196607/653507635/293.idx"/>
   </entries>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/index.erb" timestamp="1526711958200" lastAccessTime="1526751385534"/>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb" timestamp="1526670493035" lastAccessTime="1526751385535"/>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/loading.html" timestamp="1526592864137" lastAccessTime="1526751385535"/>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/loading.png" timestamp="1526592864184" lastAccessTime="1526751385535"/>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher" timestamp="1526712440941" lastAccessTime="1526751385711">
-    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/226374016/445.idx"/>
-  </entries>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/controller.rb" timestamp="1526937782889" lastAccessTime="1527172859903">
-    <attributes name="indexed" location="2838196607/3503734198/487.idx"/>
-  </entries>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb" timestamp="1527110086503" lastAccessTime="1527172858795"/>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/settings.rb" timestamp="1526933276069" lastAccessTime="1527172859993">
-    <attributes name="indexed" location="2838196607/3503734198/489.idx"/>
-  </entries>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/setup.erb" timestamp="1527101298181" lastAccessTime="1527172858795"/>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/wait.erb" timestamp="1527106870538" lastAccessTime="1527172858796"/>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/helpers/web_request_helper.rb" timestamp="1527106833557" lastAccessTime="1527172859948">
-    <attributes name="indexed" location="2838196607/971045704/491.idx"/>
-  </entries>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Miner/miner_controller.rb" timestamp="1527107085979" lastAccessTime="1527172859996">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Miner/miner_controller.rb" timestamp="1527107085979" lastAccessTime="1527192684297">
     <attributes name="indexed" location="2838196607/3128379620/493.idx"/>
   </entries>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Miner/index.erb" timestamp="1527109858223" lastAccessTime="1527172859116"/>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Miner/miner.rb" timestamp="1527109730226" lastAccessTime="1527172859906">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Miner/miner.rb" timestamp="1527109730226" lastAccessTime="1527192684297">
     <attributes name="indexed" location="2838196607/3128379620/495.idx"/>
   </entries>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Miner" timestamp="1527106928290" lastAccessTime="1527172859608">
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Miner" timestamp="1527106928290" lastAccessTime="1527192684297">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/653507635/499.idx"/>
   </entries>
+  <entries path="C:/Users/zc13224/source/repos/CivicsPracticeTest/Rakefile" timestamp="1527186465249" lastAccessTime="1527193555208"/>
+  <entries path="C:/Users/zc13224/source/repos/CivicsPracticeTest/app/helpers/application_helper.rb" timestamp="1527186465452" lastAccessTime="1527193555211"/>
+  <entries path="C:/Users/zc13224/source/repos/CivicsPracticeTest/app/helpers" timestamp="1527186465452" lastAccessTime="1527193555211">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/995722162/503.idx"/>
+  </entries>
+  <entries path="C:/Users/zc13224/source/repos/CivicsPracticeTest/app/helpers/browser_helper.rb" timestamp="1527186465452" lastAccessTime="1527193555130"/>
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app" timestamp="1526997594225" lastAccessTime="1527192684282">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3214019923/509.idx"/>
+  </entries>
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher" timestamp="1527182075113" lastAccessTime="1527192684329">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/226374016/513.idx"/>
+  </entries>
+  <entries path="C:/Users/zc13224/source/repos/CivicsPracticeTest/app/test/navigator_spec.rb" timestamp="1527188372213" lastAccessTime="1527193555227"/>
+  <entries path="C:/Users/zc13224/source/repos/CivicsPracticeTest/app/test/navigation_spec.rb" timestamp="1527188558474" lastAccessTime="1527193555209"/>
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/helpers/web_request_helper.rb" timestamp="1527106833557" lastAccessTime="1527192684408"/>
+  <entries path="C:/Users/zc13224/source/repos/CivicsPracticeTest/app/application.rb" timestamp="1527187746910" lastAccessTime="1527193555161"/>
+  <entries path="C:/Users/zc13224/source/repos/CivicsPracticeTest" timestamp="1527192051578" lastAccessTime="1527193555208">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/226374016/533.idx"/>
+  </entries>
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/settings.rb" timestamp="1527196051687" lastAccessTime="1527196052323"/>
+  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/controller.rb" timestamp="1527197341481" lastAccessTime="1527197341973"/>
 </cache:CacheIndex>

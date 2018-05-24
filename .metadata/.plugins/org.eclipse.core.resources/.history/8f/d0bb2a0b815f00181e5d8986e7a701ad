@@ -1,0 +1,18 @@
+<div data-role="page">
+  <div data-role="content">
+    <div id="webPage" style="display:none;">
+    
+    </div>
+  </div>
+  
+  <script>
+    $(document).ready(function() {
+      $.post("", {}, postWebPageLoaded);
+    });
+    
+    function postWebPageLoaded(data) {
+      $("#webPage").html(data);
+      $("#webPage").fadeIn(300);
+    }
+  </script>
+</div>

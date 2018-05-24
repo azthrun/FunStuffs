@@ -9,6 +9,10 @@ class Settings
   PANELID = "panelId"
   PANELOVERALL = "panelOverall"
   
+  CRITICALGPUHASH = "criticalGPUHash"
+  CRITICALGPUTEMP = "criticalGPUTemp"
+  CRITICALGPUWATT = "criticalGPUWatt"
+  
   WAITFOR_SETUP = "setup"
   WAITFOR_CONFIG = "config"
   
@@ -38,6 +42,27 @@ class Settings
         set(PANELOVERALL, Hash.new.to_json)
       end
       Rho::JSON.parse(instance.panelOverall)
+    end
+    
+    def criticalGPUHash
+      if instance.criticalGPUHash.nil?
+        set(CRITICALGPUHASH, "25")
+      end
+      instance.criticalGPUHash
+    end
+    
+    def criticalGPUTemp
+      if instance.criticalGPUTemp.nil?
+        set(CRITICALGPUTEMP, "70")
+      end
+      instance.criticalGPUTemp
+    end
+    
+    def criticalGPUWatt
+      if instance.criticalGPUWatt.nil?
+        set(CRITICALGPUWATT, "150")
+      end
+      instance.criticalGPUWatt
     end
     
   end

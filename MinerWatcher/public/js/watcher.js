@@ -47,3 +47,23 @@ function hideWorkerPopup() {
 	popup.fadeOut(400);
 	popupBG.fadeOut(400);
 }
+
+function toggleCriticalSection() {
+	var tapButton = $("#set-criti-toggler");
+	var critiSection = $("#critical-values");
+	if (critiSection.is(":visible")) {
+		critiSection.slideUp(300);
+		tapButton.val($("<div>").html("&rarr; Open Critical Settings &larr;").text());
+	} else {
+		critiSection.slideDown(300);
+		tapButton.val($("<div>").html("&larr; Close Critical Settings &rarr;").text());
+	}
+}
+
+function storeCriticalValues(value, type) {
+	if (isNaN(value)) {
+		$("#" + type + "-input").val("");
+	} else {
+		$.post("/app/Settings/updateCriticalVal", {criticalVal: value, criticalType: type});
+	}
+}

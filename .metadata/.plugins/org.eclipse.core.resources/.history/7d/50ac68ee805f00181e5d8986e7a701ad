@@ -1,0 +1,17 @@
+<div data-role="page">
+  <div data-role="content">
+    <div id="webPage">
+    
+    </div>
+  </div>
+  
+  <script>
+    $(document).ready(function() {
+      $.post("", {}, postWebPageLoaded);
+    });
+    
+    function postWebPageLoaded(data) {
+      $("#webPage").html(data);
+    }
+  </script>
+</div>

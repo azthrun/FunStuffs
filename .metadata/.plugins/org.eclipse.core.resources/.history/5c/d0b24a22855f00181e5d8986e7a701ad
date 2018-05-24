@@ -1,0 +1,58 @@
+require 'rho/rhocontroller'
+require 'helpers/browser_helper'
+
+class NavigationController < Rho::RhoController
+  include BrowserHelper
+
+  # GET /Navigation
+  def index
+    @navigations = Navigation.find(:all)
+    render :back => '/app'
+  end
+
+  # GET /Navigation/{1}
+  def show
+    @navigation = Navigation.find(@params['id'])
+    if @navigation
+      render :action => :show, :back => url_for(:action => :index)
+    else
+      redirect :action => :index
+    end
+  end
+
+  # GET /Navigation/new
+  def new
+    @navigation = Navigation.new
+    render :action => :new, :back => url_for(:action => :index)
+  end
+
+  # GET /Navigation/{1}/edit
+  def edit
+    @navigation = Navigation.find(@params['id'])
+    if @navigation
+      render :action => :edit, :back => url_for(:action => :index)
+    else
+      redirect :action => :index
+    end
+  end
+
+  # POST /Navigation/create
+  def create
+    @navigation = Navigation.create(@params['navigation'])
+    redirect :action => :index
+  end
+
+  # POST /Navigation/{1}/update
+  def update
+    @navigation = Navigation.find(@params['id'])
+    @navigation.update_attributes(@params['navigation']) if @navigation
+    redirect :action => :index
+  end
+
+  # POST /Navigation/{1}/delete
+  def delete
+    @navigation = Navigation.find(@params['id'])
+    @navigation.destroy if @navigation
+    redirect :action => :index  
+  end
+end

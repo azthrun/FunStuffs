@@ -1,0 +1,9 @@
+rhodes_path='C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62'
+app_version='1.0'
+app_name='CivicsPracticeTest'
+reload_app_changes=0
+debug_port=
+debug_host='127.0.0.1'
+platform='android'
+os_version='4.4.2'
+ext_path=C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/commonAPI/coreapi;C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/extensions/decryptstub;C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62/lib/extensions/json;

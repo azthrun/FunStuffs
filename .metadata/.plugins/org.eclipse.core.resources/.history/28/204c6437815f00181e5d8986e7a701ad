@@ -1,0 +1,11 @@
+<div data-role="page">
+  <div data-role="content">
+    <script>
+      <% if if System.get_property("has_wifi_network") %>
+        replacePage("/app/Settings/home");
+      <% else %>
+        replacePage("/app/Settings/wait?mode=setup");
+      <% end %>
+    </script>
+  </div>
+</div>

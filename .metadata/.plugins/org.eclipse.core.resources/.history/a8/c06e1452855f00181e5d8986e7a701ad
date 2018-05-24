@@ -1,0 +1,10 @@
+function gotoPage(newPage) {
+	$("body").pagecontainer("change", newPage, {transition: 'none'});
+	$(document).on('pageshow', function (event, ui) {
+	    $(ui.prevPage).remove();
+	});
+}
+
+function gotoCivicTestPage() {
+	
+}

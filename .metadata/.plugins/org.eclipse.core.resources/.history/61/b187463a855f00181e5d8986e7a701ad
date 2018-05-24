@@ -1,0 +1,9 @@
+require 'rho/rhocontroller'
+require 'helpers/browser_helper'
+
+class NavigationController < Rho::RhoController
+  include BrowserHelper
+  
+  
+  
+end

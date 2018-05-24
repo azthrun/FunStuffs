@@ -1,0 +1,8 @@
+class Navigator
+  include Rhom::PropertyBag
+
+  # Uncomment the following line to enable sync with Navigator.
+  # enable :sync
+
+  #add model specific code here
+end

@@ -39,6 +39,12 @@ class SettingsController < Rho::RhoController
     render :layout => false
   end
   
+  def updateCriticalVal
+    type = @params["criticalType"]
+    value = @params["criticalVal"]
+    Settings.set(type, value)
+  end
+  
   def resetAppInfo
     Miner.delete_all
     Settings.set(Settings::PANELID, "")

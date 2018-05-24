@@ -114,10 +114,11 @@ input:focus {
 .workers-header {
 	display: block;
 	width: 100%;
-	height: 2em;
-	line-height: 2em;
+	height: 8vh;
+	line-height: 2vh;
 	font-size: 1em;
 	text-align: center;
+	padding-top: 2vh;
 }
 
 .gpus-panel > .gpu-item-box {
@@ -171,7 +172,7 @@ input:focus {
 @media all and (orientation: portrait) {
 	.worker-header {
 		position: relative;
-		height: 8vh;
+		height: 5vh;
 		line-height: 2vh;
 		text-align: center;
 		padding: .5em;
@@ -235,7 +236,7 @@ input:focus {
 @media all and (orientation: landscape) {
 	.worker-header {
 		position: relative;
-		height: 8vh;
+		height: 5vh;
 		line-height: 2vh;
 		text-align: center;
 		padding: .5em;

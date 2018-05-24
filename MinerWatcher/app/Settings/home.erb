@@ -1,7 +1,7 @@
 <div data-role="page" class="page">
   
   <!-- header -->
-  <div class="worker-header">
+  <div class="workers-header">
     <!--<span onClick="backgroundPage('/app/Settings/showLogs');">Panel Information</span>-->
     <div class="header-slides" style="display:none;">
       <% @workers.each do |worker| %>
@@ -31,7 +31,7 @@
           <div style="padding:.2em .5em;">
             <% doesWorkerNeedRestart = worker.minerInstance != worker.numOfGPU %>
             <div class="worker-general" onClick="showWorkerPopup('<%= worker.object %>');">
-              <p style="margin:0;padding:0;"><strong>Hash</strong>: <%= worker.totalHash %> Mh/s;</p>
+              <p style="margin:0;padding:0;"><strong>Hash</strong>: <%= worker.totalHash %> Mh/s</p>
               <p style="margin:0;padding:0;"><strong>Live GPUs</strong>: <span <% if doesWorkerNeedRestart %>style="color:#880000;font-weight:700;"<% end %>><%= worker.minerInstance %></span>/<%= worker.numOfGPU %>&nbsp;&nbsp;&nbsp;<span <% if doesWorkerNeedRestart %>style="color:#880000;font-weight:700;"<% end %>><%= (worker.minerInstance.to_i / worker.numOfGPU.to_i * 100).to_i %>%</span></p>
               <% if worker.condition != "mining" %>
                 <span style="position:absolute;top:.5em;left:1em;width:2em;height:2em;background:transparent url('/public/images/iconAlert.svg') no-repeat center center;background-size:contain;"></span>
@@ -59,15 +59,15 @@
                   </div>
                   <div class="horizontal-scroll-panel">
                     <div class="panel-item">
-                      <p style="margin:0;padding:0;"><span style="font-size:1.5em;font-weight:700;"><%= gpuHash.split(".").first %></span><% if gpuHash.include?(".") %>.<%= gpuHash.split(".").last %><% end %></p>
+                      <p style="margin:0;padding:0;<% if gpuHash.to_f <= Settings.criticalGPUHash.to_f %>color:#880000;<% end %>"><span style="font-size:1.5em;font-weight:700;"><%= gpuHash.split(".").first %></span><% if gpuHash.include?(".") %>.<%= gpuHash.split(".").last %><% end %></p>
                       <p style="margin:0;padding:0;font-style:italic;">Mh/s</p>
                     </div>
                     <div class="panel-item">
-                      <p style="margin:0;padding:0;"><span style="font-size:1.5em;font-weight:700;"><%= gpuTemp.split(".").first %></span><% if gpuTemp.include?(".") %>.<%= gpuTemp.split(".").last %><% end %></p>
+                      <p style="margin:0;padding:0;<% if gpuTemp.to_f >= Settings.criticalGPUTemp.to_f %>color:#880000;<% end %>"><span style="font-size:1.5em;font-weight:700;"><%= gpuTemp.split(".").first %></span><% if gpuTemp.include?(".") %>.<%= gpuTemp.split(".").last %><% end %></p>
                       <p style="margin:0;padding:0;font-style:italic;">&#8451;</p>
                     </div>
                     <div class="panel-item">
-                      <p style="margin:0;padding:0;"><span style="font-size:1.5em;font-weight:700;"><%= gpuWatt %></span></p>
+                      <p style="margin:0;padding:0;<% if gpuWatt.to_f >= Settings.criticalGPUWatt.to_f %>color:#19198c;<% end %>"><span style="font-size:1.5em;font-weight:700;"><%= gpuWatt %></span></p>
                       <p style="margin:0;padding:0;font-style:italic;">watts</p>
                     </div>
                     <div class="panel-item">
@@ -106,7 +106,7 @@
     <!-- info popup -->
     <div id="info-popup-background" class="popup-background" onClick="hideInfoPopup();"></div>
     <div id="info-popup" class="popup-content">
-      <div class="popup-header">Panel <%= Settings.panelId %></div>
+      <div class="popup-header" onClick="Rho.Log.showLog();">Panel <%= Settings.panelId %></div>
       <div class="grid-layout">
         <span class="two-columns-grid left">Total Hash:</span>
         <span class="two-columns-grid right"><%= @panel["total_hash"] %> Mh/s</span>
@@ -126,6 +126,28 @@
       <div class="grid-layout">
         <span class="two-columns-grid left">Panel Last Refreshed:</span>
         <span class="two-columns-grid right"><%= Time.at(@panel["per_info"]["claymore"]["current_time"]).strftime("%y-%^b-%d %I:%M:%S %p") %></span>
+      </div>
+      <input id="set-criti-toggler" type="button" value="&rarr; Set Critical Settings &larr;" class="button-standard button-mini" style="background-color:#ab4c4c;color:#ffffff;font-weight:650;" onClick="toggleCriticalSection();" />
+      <div id="critical-values" style="display:none;">
+        <div class="grid-layout" style="margin-top:.5em;">
+          <span class="two-columns-grid left">Critical Hash Rate</span>
+          <span class="two-columns-grid right">
+            <input id="<%= Settings::CRITICALGPUHASH %>-input" type="text" value="<%= Settings.criticalGPUHash %>" placeholder="<%= Settings.criticalGPUHash %>" onChange="storeCriticalValues(this.value, '<%= Settings::CRITICALGPUHASH %>');" style="text-align:center;" />
+          </span>
+        </div>
+        <div class="grid-layout" style="margin-top:.5em;">
+          <span class="two-columns-grid left">Critical GPU Temp</span>
+          <span class="two-columns-grid right">
+            <input id="<%= Settings::CRITICALGPUTEMP %>-input" type="text" value="<%= Settings.criticalGPUTemp %>" placeholder="<%= Settings.criticalGPUTemp %>" onChange="storeCriticalValues(this.value, '<%= Settings::CRITICALGPUTEMP %>');" style="text-align:center;" />
+          </span>
+        </div>
+        <div class="grid-layout" style="margin-top:.5em;">
+          <span class="two-columns-grid left">Critical GPU Watt</span>
+          <span class="two-columns-grid right">
+            <input id="<%= Settings::CRITICALGPUWATT %>-input" type="text" value="<%= Settings.criticalGPUWatt %>" placeholder="<%= Settings.criticalGPUWatt %>" onChange="storeCriticalValues(this.value, '<%= Settings::CRITICALGPUWATT %>');" style="text-align:center;" />
+          </span>
+        </div>
+        <input type="button" value="Apply Changes" class="button-standard button-mini" style="width:50%;font-weight:700;" onClick="Rho.WebView.refresh();" />
       </div>
     </div>
 

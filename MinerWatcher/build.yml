@@ -1,7 +1,7 @@
 ## Note: sdk is full path to Rhodes root. If not defined - automatically find latest installed Rhodes gem
 #sdk: "C:/RhoMobileSuite5.5.0.62/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.62"
 sdkversion: "5.5.0"
-name: "MinerWatcher"
+name: "Miner Watcher"
 version: 1.0
 vendor: "rhomobile"
 ## Note: rho_app_id send to RhoConnect server for identify application (used in multi-push configuration only)

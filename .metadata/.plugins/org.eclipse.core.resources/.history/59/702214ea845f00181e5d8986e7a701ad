@@ -1,0 +1,11 @@
+require 'helpers/application_helper'
+
+class Navigator
+  include Rhom::PropertyBag
+  
+  set :partition, :local
+
+  class << self
+    include ApplicationHelper
+  end
+end

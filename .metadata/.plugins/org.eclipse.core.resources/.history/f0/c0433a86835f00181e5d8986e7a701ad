@@ -1,0 +1,14 @@
+<div style="width:100vw;background-color:#f4f4f4;">
+  <div style="height:5em;width:100%;">
+    <div ></div>
+  </div>
+  
+  <script>
+    $(document).ready(function() {
+      <% if System.get_property("has_wifi_network") %>
+        <% Rho::WebView.navigate("https://my.uscis.gov/en/prep/test/civics/new") %>
+      <% else %>
+      <% end %>
+    });
+  </script>
+</div>
