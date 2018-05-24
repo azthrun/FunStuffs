@@ -172,7 +172,7 @@ input:focus {
 	.worker-header {
 		position: relative;
 		height: 8vh;
-		line-height: 2vh;
+		line-height: 8vh;
 		text-align: center;
 		padding: .5em;
 		color: #000000;
@@ -184,6 +184,8 @@ input:focus {
 		width: 75vw;
 		height: 8vh;
 		margin: auto;
+		font-size: 1.5em;
+		font-variant: small-caps;
 	}
 	
 	.header-left-button {
@@ -236,7 +238,7 @@ input:focus {
 	.worker-header {
 		position: relative;
 		height: 8vh;
-		line-height: 2vh;
+		line-height: 8vh;
 		text-align: center;
 		padding: .5em;
 		color: #000000;
@@ -248,6 +250,8 @@ input:focus {
 		width: 85vw;
 		height: 8vh;
 		margin: auto;
+		font-size: 1.5em;
+		font-variant: small-caps;
 	}
 	
 	.header-left-button {

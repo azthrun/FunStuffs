@@ -6,10 +6,7 @@
     <div class="header-slides" style="display:none;">
       <% @workers.each do |worker| %>
         <div id="slide-<%= worker.object %>" style="padding:0 .5em;">
-          <div style="border:1px solid #c6c3b5;padding-top:.5em;">
-            <p style="margin:0;padding:.2em 0;font-size:1.5em;font-variant:small-caps;"><%= worker.object %></p>
-            <p style="margin:0;padding:.2em 0 .5em 0;font-size:.8em;vertical-align:top;">(<%= worker.miner %>; ethOS <span <% if worker.osVersion != @panel["current_version"] %>style="color:#880000;font-weight:700;"<% end %>><%= worker.osVersion %></span>)</p>
-          </div>
+          <div style="border:1px solid #c6c3b5;"><%= worker.object %></div>
         </div>
       <% end %>
     </div>
@@ -53,10 +50,7 @@
                   gpuMem = worker.gpuMem.split(" ")[index]
                 %>
                 <div class="gpu-item-box" style="background-color:#<%= gpuBoxColor %>;">
-                  <div class="horizontal-scroll-panel">
-                    <span style="line-height:1.2em;font-size:1.2em;font-weight:700;"><%= gpuInfo[0..3] %></span>
-                    <span style="line-height:1.2em;font-size:.7em;vertical-align:top;"><%= gpuInfo[4..(gpuInfo.length - 1)] %></span>
-                  </div>
+                  <p><span style="line-height:1.2em;font-size:1.2em;font-weight:700;"><%= gpuInfo[0..3] %></span></p>
                   <div class="horizontal-scroll-panel">
                     <div class="panel-item">
                       <p style="margin:0;padding:0;"><span style="font-size:1.5em;font-weight:700;"><%= gpuHash.split(".").first %></span><% if gpuHash.include?(".") %>.<%= gpuHash.split(".").last %><% end %></p>

@@ -26,7 +26,7 @@
         <% themeColor = idx % 2 != 1 ? "777696" : "d66a00" %>
         <div id="content-<%= worker.object %>" class="worker-content" style="border:1px solid #<%= themeColor %>;<% if idx >= 1 %>display:none;<% end %>">
           <div class="worker-header" style="background-color:#<%= themeColor %>;">
-            <p style="color:#ffffff;">Worker <strong><%= worker.object %></strong> (IP: <strong><%= worker.rigIpAddress %></strong>)</p>
+            <p style="margin:auto;padding:.5em;;color:#ffffff;">Worker <strong><%= worker.object %></strong> (IP: <strong><%= worker.rigIpAddress %></strong>)</p>
           </div>
           <div style="padding:.2em .5em;">
             <% doesWorkerNeedRestart = worker.minerInstance != worker.numOfGPU %>

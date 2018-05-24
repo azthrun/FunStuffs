@@ -47,3 +47,20 @@ function hideWorkerPopup() {
 	popup.fadeOut(400);
 	popupBG.fadeOut(400);
 }
+
+function showGPUPopup(gpuInfo) {
+	var popup = $("#gpu-popup");
+	var popupTextContainer = $("#gpu-popup p");
+	var popupBG = $("#gpu-popup-background");
+	
+	popupTextContainer.html(gpuInfo);
+	popup.fadeIn(400);
+	popupBG.fadeIn(400);
+}
+
+function hideGPUPopup() {
+	var popup = $("#gpu-popup");
+	var popupBG = $("#gpu-popup-background");
+	popup.fadeOut(400);
+	popupBG.fadeOut(400);
+}

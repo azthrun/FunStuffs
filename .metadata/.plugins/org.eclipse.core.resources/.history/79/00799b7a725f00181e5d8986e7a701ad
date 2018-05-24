@@ -172,7 +172,7 @@ input:focus {
 	.worker-header {
 		position: relative;
 		height: 8vh;
-		line-height: 2vh;
+		line-height: 3vh;
 		text-align: center;
 		padding: .5em;
 		color: #000000;
@@ -236,7 +236,7 @@ input:focus {
 	.worker-header {
 		position: relative;
 		height: 8vh;
-		line-height: 2vh;
+		line-height: 3vh;
 		text-align: center;
 		padding: .5em;
 		color: #000000;

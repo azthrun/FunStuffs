@@ -7,8 +7,8 @@
       <% @workers.each do |worker| %>
         <div id="slide-<%= worker.object %>" style="padding:0 .5em;">
           <div style="border:1px solid #c6c3b5;padding-top:.5em;">
-            <p style="margin:0;padding:.2em 0;font-size:1.5em;font-variant:small-caps;"><%= worker.object %></p>
-            <p style="margin:0;padding:.2em 0 .5em 0;font-size:.8em;vertical-align:top;">(<%= worker.miner %>; ethOS <span <% if worker.osVersion != @panel["current_version"] %>style="color:#880000;font-weight:700;"<% end %>><%= worker.osVersion %></span>)</p>
+            <p style="margin:0;padding:.5em;font-size:1.5em;font-variant:small-caps;"><%= worker.object %></p>
+            <p style="margin:0;padding:.5em;font-size:.8em;vertical-align:top;">(<%= worker.miner %>; ethOS <span <% if worker.osVersion != @panel["current_version"] %>style="color:#880000;font-weight:700;"<% end %>><%= worker.osVersion %></span>)</p>
           </div>
         </div>
       <% end %>

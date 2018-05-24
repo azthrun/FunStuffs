@@ -1,0 +1,495 @@
+I 05/24/2018 11:50:37:186 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:50:37:186 00003534           HttpServer| GC End.
+I 05/24/2018 11:50:37:186 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:50:37:201 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:50:37:201 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:50:37:233 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:50:37:233 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:50:37:248 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:50:37:280 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:50:58:436 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:50:58:451 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:50:58:451 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:50:58:451 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:50:58:467 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:50:58:467 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:50:58:467 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30133
+I 05/24/2018 11:50:58:482 00003534           HttpServer| GC Start.
+I 05/24/2018 11:50:58:482 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:50:58:482 00003534           HttpServer| GC End.
+I 05/24/2018 11:50:58:482 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:50:58:498 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:50:58:498 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:50:58:514 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:50:58:545 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:50:58:545 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:50:58:576 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:51:14:766 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:51:14:766 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:51:14:781 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:51:14:781 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:51:14:781 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:51:14:797 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:51:14:797 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30145
+I 05/24/2018 11:51:14:797 00003534           HttpServer| GC Start.
+I 05/24/2018 11:51:14:797 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:51:14:812 00003534           HttpServer| GC End.
+I 05/24/2018 11:51:14:812 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:51:14:828 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:51:14:828 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:51:14:844 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:51:14:859 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:51:14:859 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:51:14:906 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:51:32:472 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:51:32:472 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:51:32:472 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:51:32:488 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:51:32:488 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:51:32:503 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:51:32:503 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30153
+I 05/24/2018 11:51:32:503 00003534           HttpServer| GC Start.
+I 05/24/2018 11:51:32:503 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:51:32:519 00003534           HttpServer| GC End.
+I 05/24/2018 11:51:32:519 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:51:32:534 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:51:32:534 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:51:32:566 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:51:32:581 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:51:32:581 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:51:32:613 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 12:03:30:593 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 12:03:30:609 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 12:03:30:609 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 12:03:30:624 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 12:03:30:624 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 12:03:30:624 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 12:03:30:640 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30167
+I 05/24/2018 12:03:30:640 00003534           HttpServer| GC Start.
+I 05/24/2018 12:03:30:640 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 12:03:30:640 00003534           HttpServer| GC End.
+I 05/24/2018 12:03:30:656 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 12:03:30:656 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 12:03:30:671 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 12:03:30:687 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 12:03:30:702 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 12:03:30:702 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 12:03:30:747 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 12:03:59:360 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 12:03:59:375 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 12:03:59:375 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 12:03:59:375 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 12:03:59:375 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 12:03:59:391 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 12:03:59:391 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30191
+I 05/24/2018 12:03:59:391 00003534           HttpServer| GC Start.
+I 05/24/2018 12:03:59:391 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 12:03:59:391 00003534           HttpServer| GC End.
+I 05/24/2018 12:03:59:406 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 12:03:59:406 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 12:03:59:422 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 12:03:59:438 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 12:03:59:453 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 12:03:59:453 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 12:03:59:500 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 12:04:13:533 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 12:04:13:548 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 12:04:13:548 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 12:04:13:548 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 12:04:13:564 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 12:04:13:564 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 12:04:13:564 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30219
+I 05/24/2018 12:04:13:580 00003534           HttpServer| GC Start.
+I 05/24/2018 12:04:13:580 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 12:04:13:580 00003534           HttpServer| GC End.
+I 05/24/2018 12:04:13:595 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 12:04:13:595 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 12:04:13:595 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 12:04:13:627 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 12:04:13:642 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 12:04:13:642 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 12:04:13:673 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 12:14:20:767 00000e9c            RhodesApp| callAppActiveCallback
+I 05/24/2018 12:14:20:767 00000e9c         AppCallbacks| addCommand: APP-DEACTIVATED
+I 05/24/2018 12:14:20:783 00000e9c          RhoThreadQT| RHOQT stopWait
+I 05/24/2018 12:14:20:783 00000e9c          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/24/2018 12:14:20:908 00000e9c          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/24/2018 12:14:20:908 00000e9c          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/24/2018 12:14:20:908 00000e9c                  Net| Method: GET;Url: http://127.0.0.1:54292/system/deactivateapp
+I 05/24/2018 12:14:20:908 0000378c          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/24/2018 12:14:20:923 0000378c          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/24/2018 12:14:20:923 00000e9c                  Net| initConnection-Internet handle present
+I 05/24/2018 12:14:20:923 0000378c          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/24/2018 12:14:20:939 0000378c          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/24/2018 12:14:20:955 0000378c         AppCallbacks| APP-DEACTIVATED is received ++++++++++++++++++++++++++++
+I 05/24/2018 12:14:20:955 0000378c         AppCallbacks| process command: APP-DEACTIVATED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/24/2018 12:14:20:955 0000378c         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/24/2018 12:14:20:970 0000378c          RhoThreadQT| RHOQT wait
+I 05/24/2018 12:14:20:955 00003534           HttpServer| Process URI: '/system/deactivateapp'
+I 05/24/2018 12:14:20:970 0000378c          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/24/2018 12:14:20:986 00003534                  APP| AppEvent Deactivated
+I 05/24/2018 12:14:20:986 0000378c          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/24/2018 12:14:21:000 00000e9c                  Net| Method: GET;Url: http://127.0.0.1:54292/system/uidestroyed
+I 05/24/2018 12:14:21:000 00000e9c                  Net| initConnection-Internet handle present
+I 05/24/2018 12:14:21:000 00003534           HttpServer| Process URI: '/system/uidestroyed'
+I 05/24/2018 12:14:21:015 00003534                  APP| AppEvent UIDestroyed
+I 05/24/2018 12:14:21:015 00000e9c          RhoThreadQT| RHOQT stop
+I 05/24/2018 12:14:21:015 00000e9c          RhoThreadQT| RHOQT stopWait
+I 05/24/2018 12:14:21:015 00000e9c          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/24/2018 12:14:21:140 00000e9c          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/24/2018 12:14:21:140 00000e9c          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/24/2018 12:14:21:140 0000378c          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/24/2018 12:14:21:140 0000378c          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/24/2018 12:14:21:140 0000378c          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/24/2018 12:14:21:156 0000378c          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/24/2018 12:14:21:156 0000378c         AppCallbacks| Thread shutdown
+I 05/24/2018 12:14:21:156 00000e9c           HttpServer| Stopping server...
+I 05/24/2018 12:14:21:156 00000e9c          RhoThreadQT| RHOQT stopWait
+I 05/24/2018 12:14:21:156 00003534            RhodesApp| RhodesApp thread shutdown
+I 05/24/2018 12:14:21:172 00000e9c          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/24/2018 12:14:21:172 00003534          GeoLocation| Destroying singleton instance.
+I 05/24/2018 12:14:21:172 00003534                 Sync| Stopping Sync thread
+I 05/24/2018 12:14:21:172 00003534          RhoThreadQT| RHOQT stop
+I 05/24/2018 12:14:21:187 00003534          RhoThreadQT| RHOQT stopWait
+I 05/24/2018 12:14:21:187 00003534          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/24/2018 12:14:21:282 00000e9c          RhoThreadQT| RHOQT stop
+I 05/24/2018 12:14:21:285 00000e9c          RhoThreadQT| RHOQT stopWait
+I 05/24/2018 12:14:21:289 00000e9c          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/24/2018 12:14:21:297 00003534          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/24/2018 12:14:21:301 00003534          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/24/2018 12:14:21:305 00003040          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/24/2018 12:14:21:309 00003040          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/24/2018 12:14:21:314 00003040          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/24/2018 12:14:21:318 00003040          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/24/2018 12:14:21:321 00003040                 Sync| Thread shutdown
+I 05/24/2018 12:14:21:323 00003534          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/24/2018 12:14:21:402 00000e9c          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/24/2018 12:14:21:402 00000e9c          RhoThreadQT| RHOQT stop
+I 05/24/2018 12:14:21:402 00000e9c          RhoThreadQT| RHOQT stopWait
+I 05/24/2018 12:14:21:402 00000e9c          RhoThreadQT| RHOQT stopWait- before 100 ms sleep
+I 05/24/2018 12:14:21:527 00000e9c          RhoThreadQT| RHOQT stopWait-m_waitThread exists -before EnterCriticalSection
+I 05/24/2018 12:14:21:527 00000e9c          RhoThreadQT| RHOQT stopWait-m_waitThread exists again- before Terminate waitthread
+I 05/24/2018 12:14:21:527 00002f40          RhoThreadQT| RHOQT wait-after wait for a long time Result:-  false
+I 05/24/2018 12:14:21:542 00002f40          RhoThreadQT| RHOQT wait-m_waitThread exists again-before EnterCriticalSection
+I 05/24/2018 12:14:21:542 00002f40          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-before Delete m_waitThread
+I 05/24/2018 12:14:21:542 00002f40          RhoThreadQT| RHOQT wait:-m_waitThread exists again 2-after Delete m_waitThread
+I 05/24/2018 12:14:21:558 00000e9c          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+I 05/24/2018 12:14:21:558 00000e9c          RhoThreadQT| RHOQT CRhoThreadImpl destructor
+uicreated
+I 05/24/2018 11:36:58:247 00003534           HttpServer| Process URI: '/system/uicreated'
+I 05/24/2018 11:36:58:247 00003534                  APP| on_ui_created.navigate to start url: '/app'
+I 05/24/2018 11:36:58:247 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:36:58:247 0000378c         AppCallbacks| process command: APP-ACTIVATED<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+I 05/24/2018 11:36:58:247 0000378c                  Net| Method: GET;Url: http://127.0.0.1:54292/system/activateapp
+I 05/24/2018 11:36:58:247 0000378c                  Net| initConnection-Internet handle present
+I 05/24/2018 11:36:58:262 00003534           HttpServer| Process URI: '/system/activateapp'
+I 05/24/2018 11:36:58:262 00003534                  APP| AppEvent Activated
+I 05/24/2018 11:36:58:262 0000378c         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 05/24/2018 11:36:58:262 0000378c          RhoThreadQT| RHOQT wait
+I 05/24/2018 11:36:58:262 0000378c          RhoThreadQT| RHOQT wait-after m_waitThread->start
+I 05/24/2018 11:36:58:262 0000378c          RhoThreadQT| RHOQT wait-before wait for a long time nTimeoutMs:-  4294966296
+I 05/24/2018 11:36:59:325 00003534           HttpServer| Process URI: '/app'
+I 05/24/2018 11:36:59:325 00003534           HttpServer| Process URI: '/app/index.erb'
+I 05/24/2018 11:36:59:325 00003534                  APP| RHO serve_index: /app/index.erb
+I 05/24/2018 11:36:59:325 00003534 RHO Rho::RhoController| inst_render_index
+I 05/24/2018 11:36:59:325 00003534              RhoRuby| require_compiled: erb
+I 05/24/2018 11:36:59:341 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/index.erb
+I 05/24/2018 11:36:59:341 00003534                  APP| const_missing: Settings
+I 05/24/2018 11:36:59:341 00003534                  APP| load_model: Settings
+I 05/24/2018 11:36:59:341 00003534              RhoRuby| require_compiled: Settings/settings
+I 05/24/2018 11:36:59:341 00003534              RhoRuby| require_compiled: helpers/application_helper
+I 05/24/2018 11:36:59:356 00003534                  APP| model name: Settings
+I 05/24/2018 11:36:59:356 00003534                  APP| model class found
+I 05/24/2018 11:36:59:356 00003534                  APP| Settings : {"partition"=>:user, "property"=>{}}
+I 05/24/2018 11:36:59:356 00003534                  APP| init_db_sources
+I 05/24/2018 11:36:59:356 00003534                  APP| start_id: 3
+I 05/24/2018 11:36:59:356 00003534                  APP| Migrate schema sources: {}
+I 05/24/2018 11:36:59:372 00003534 RHO Rho::RhoController| index layout
+I 05/24/2018 11:36:59:372 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:36:59:388 00003534           HttpServer| GC Start.
+I 05/24/2018 11:36:59:388 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/index.erb
+I 05/24/2018 11:36:59:388 00003534           HttpServer| GC End.
+I 05/24/2018 11:36:59:388 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:36:59:388 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:36:59:388 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:36:59:403 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/js/bootstrap.min.js'
+I 05/24/2018 11:36:59:403 00003534           HttpServer| Process URI: '/public/js/plugins/slick/slick.css'
+I 05/24/2018 11:36:59:403 00003534           HttpServer| Process URI: '/public/js/plugins/slick/slick-theme.css'
+E 05/24/2018 11:36:59:403 00003534           HttpServer| The file /public/js/plugins/slick/slick-theme.css was not found
+I 05/24/2018 11:36:59:403 00003534           HttpServer| Process URI: '/public/js/plugins/slick/slick.min.js'
+I 05/24/2018 11:36:59:434 00003534           HttpServer| Process URI: '/public/js/watcher.js'
+I 05/24/2018 11:36:59:434 00003534           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 05/24/2018 11:36:59:450 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:36:59:450 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:36:59:466 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:36:59:466 00003534           HttpServer| Process URI: '/app/Settings/setup'
+I 05/24/2018 11:36:59:466 00003534                  APP| RHO serve: /app/Settings/setup
+E 05/24/2018 11:36:59:466 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:36:59:466 00003534              RhoRuby| require_compiled: Settings/controller
+I 05/24/2018 11:36:59:466 00003534              RhoRuby| require_compiled: helpers/browser_helper
+I 05/24/2018 11:36:59:481 00003534              RhoRuby| require_compiled: helpers/web_request_helper
+I 05/24/2018 11:36:59:481 00003534                  APP| const_missing: Miner
+I 05/24/2018 11:36:59:481 00003534                  APP| load_model: Miner
+I 05/24/2018 11:36:59:481 00003534              RhoRuby| require_compiled: Miner/miner
+I 05/24/2018 11:36:59:481 00003534                  APP| model name: Miner
+I 05/24/2018 11:36:59:481 00003534                  APP| model class found
+I 05/24/2018 11:36:59:481 00003534                  APP| Miner : {"partition"=>:user, "property"=>{}}
+I 05/24/2018 11:36:59:497 00003534                  APP| init_db_sources
+I 05/24/2018 11:36:59:497 00003534                  APP| start_id: 4
+I 05/24/2018 11:36:59:497 00003534                  APP| Migrate schema sources: {}
+I 05/24/2018 11:36:59:528 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/setup.erb
+I 05/24/2018 11:36:59:528 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:36:59:528 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 2122
+I 05/24/2018 11:36:59:528 00003534           HttpServer| GC Start.
+I 05/24/2018 11:36:59:544 00003534           HttpServer| GC End.
+I 05/24/2018 11:36:59:544 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/setup
+I 05/24/2018 11:36:59:559 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:36:59:559 00003534           HttpServer| Process URI: '/favicon.ico'
+E 05/24/2018 11:36:59:575 00003534           HttpServer| The file /favicon.ico was not found
+I 05/24/2018 11:36:59:575 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:36:59:591 00003534           HttpServer| Process URI: '/public/images/ethereum.png'
+I 05/24/2018 11:37:08:207 00003534           HttpServer| Process URI: '/app/Settings/storePanelId'
+I 05/24/2018 11:37:08:222 00003534                  APP| RHO serve: /app/Settings/storePanelId
+E 05/24/2018 11:37:08:222 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:37:08:222 00003534                  APP| Params: {"panelId"=>"b57258"}
+I 05/24/2018 11:37:08:238 00003534           HttpServer| GC Start.
+I 05/24/2018 11:37:08:238 00003534           HttpServer| GC End.
+I 05/24/2018 11:37:08:253 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:37:08:253 00003534           HttpServer| Process URI: '/app/Settings/wait'
+I 05/24/2018 11:37:08:253 00003534                  APP| RHO serve: /app/Settings/wait
+E 05/24/2018 11:37:08:253 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:37:08:253 00003534                  APP| Params: {"mode"=>"setup"}
+I 05/24/2018 11:37:08:253 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/wait.erb
+I 05/24/2018 11:37:08:269 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:37:08:269 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 1846
+I 05/24/2018 11:37:08:269 00003534           HttpServer| GC Start.
+I 05/24/2018 11:37:08:269 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/wait?mode=setup
+I 05/24/2018 11:37:08:269 00003534           HttpServer| GC End.
+I 05/24/2018 11:37:08:285 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:37:08:300 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:37:08:300 00003534           HttpServer| Process URI: '/public/images/loading.gif'
+I 05/24/2018 11:37:08:316 00003534           HttpServer| Process URI: '/app/Settings/downloadRigStatus'
+I 05/24/2018 11:37:08:316 00003534                  APP| RHO serve: /app/Settings/downloadRigStatus
+E 05/24/2018 11:37:08:316 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:37:08:316 00003534                  Net| Method: GET;Url: http://www.google.com
+I 05/24/2018 11:37:08:316 00003534                  Net| initConnection-Internet handle present
+I 05/24/2018 11:37:08:565 00003534                  Net| Method: GET;Url: http://b57258.ethosdistro.com/?json=yes
+I 05/24/2018 11:37:08:567 00003534                  Net| initConnection-Internet handle present
+I 05/24/2018 11:37:08:785 00003534           HttpServer| GC Start.
+I 05/24/2018 11:37:08:800 00003534           HttpServer| GC End.
+I 05/24/2018 11:37:08:800 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:37:08:808 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:37:08:810 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:37:08:812 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:37:08:813 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:37:08:813 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:37:08:813 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 29663
+I 05/24/2018 11:37:08:813 00003534           HttpServer| GC Start.
+I 05/24/2018 11:37:08:813 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:37:08:813 00003534           HttpServer| GC End.
+I 05/24/2018 11:37:08:829 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:37:08:844 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:37:08:844 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:37:08:922 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:37:51:810 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:37:51:826 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:37:51:826 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:37:51:826 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:37:51:826 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:37:51:842 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:37:51:842 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 29663
+I 05/24/2018 11:37:51:842 00003534           HttpServer| GC Start.
+I 05/24/2018 11:37:51:842 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:37:51:842 00003534           HttpServer| GC End.
+I 05/24/2018 11:37:51:842 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:37:51:873 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:37:51:873 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:37:51:889 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:37:51:904 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:37:51:904 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:37:51:935 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:38:04:501 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:38:04:501 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:38:04:501 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:38:04:501 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:38:04:516 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:38:04:516 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:38:04:516 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 29663
+I 05/24/2018 11:38:04:516 00003534           HttpServer| GC Start.
+I 05/24/2018 11:38:04:516 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:38:04:516 00003534           HttpServer| GC End.
+I 05/24/2018 11:38:04:532 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:38:04:532 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:38:04:532 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:38:04:563 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:38:04:563 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:38:04:563 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:38:04:610 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:41:40:856 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:41:40:856 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:41:40:856 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:41:40:872 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:41:40:872 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:41:40:872 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:41:40:872 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30053
+I 05/24/2018 11:41:40:872 00003534           HttpServer| GC Start.
+I 05/24/2018 11:41:40:887 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:41:40:887 00003534           HttpServer| GC End.
+I 05/24/2018 11:41:40:887 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:41:40:887 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:41:40:887 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:41:40:918 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:41:40:934 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:41:40:934 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:41:40:981 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:42:02:125 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:42:02:125 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:42:02:125 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:42:02:125 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:42:02:125 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:42:02:141 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:42:02:141 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30029
+I 05/24/2018 11:42:02:141 00003534           HttpServer| GC Start.
+I 05/24/2018 11:42:02:141 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:42:02:141 00003534           HttpServer| GC End.
+I 05/24/2018 11:42:02:157 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:42:02:157 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:42:02:157 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:42:02:188 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:42:02:203 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:42:02:203 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:42:02:250 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:42:11:250 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:42:11:265 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:42:11:265 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:42:11:265 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:42:11:265 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:42:11:265 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:42:11:281 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30029
+I 05/24/2018 11:42:11:281 00003534           HttpServer| GC Start.
+I 05/24/2018 11:42:11:281 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:42:11:281 00003534           HttpServer| GC End.
+I 05/24/2018 11:42:11:281 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:42:11:297 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:42:11:297 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:42:11:312 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:42:11:328 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:42:11:328 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:42:11:375 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:42:26:306 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:42:26:337 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:42:26:337 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:42:26:337 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:42:26:337 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:42:26:337 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:42:26:337 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30105
+I 05/24/2018 11:42:26:353 00003534           HttpServer| GC Start.
+I 05/24/2018 11:42:26:353 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:42:26:353 00003534           HttpServer| GC End.
+I 05/24/2018 11:42:26:353 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:42:26:353 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:42:26:369 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:42:26:384 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:42:26:400 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:42:26:400 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:42:26:431 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:47:18:086 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:47:18:101 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:47:18:101 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:47:18:101 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:47:18:101 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:47:18:117 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:47:18:117 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30089
+I 05/24/2018 11:47:18:117 00003534           HttpServer| GC Start.
+I 05/24/2018 11:47:18:117 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:47:18:117 00003534           HttpServer| GC End.
+I 05/24/2018 11:47:18:117 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:47:18:133 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:47:18:133 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:47:18:164 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:47:18:164 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:47:18:180 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:47:18:226 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:49:03:066 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:49:03:066 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:49:03:082 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:49:03:082 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:49:03:082 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:49:03:082 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:49:03:082 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30047
+I 05/24/2018 11:49:03:097 00003534           HttpServer| GC Start.
+I 05/24/2018 11:49:03:097 00003534           HttpServer| GC End.
+I 05/24/2018 11:49:03:097 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:49:03:097 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:49:03:097 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:49:03:113 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:49:03:146 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:49:03:150 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:49:03:150 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:49:03:197 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:49:15:401 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:49:15:401 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:49:15:401 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:49:15:401 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:49:15:401 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:49:15:417 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:49:15:417 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30023
+I 05/24/2018 11:49:15:417 00003534           HttpServer| GC Start.
+I 05/24/2018 11:49:15:417 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:49:15:417 00003534           HttpServer| GC End.
+I 05/24/2018 11:49:15:432 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:49:15:432 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:49:15:432 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:49:15:464 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:49:15:464 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:49:15:479 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:49:15:526 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:49:33:725 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:49:33:740 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:49:33:740 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:49:33:740 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:49:33:740 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:49:33:740 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:49:33:756 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30023
+I 05/24/2018 11:49:33:756 00003534           HttpServer| GC Start.
+I 05/24/2018 11:49:33:756 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:49:33:756 00003534           HttpServer| GC End.
+I 05/24/2018 11:49:33:756 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:49:33:756 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:49:33:771 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:49:33:787 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:49:33:803 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:49:33:803 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:49:33:850 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:49:58:574 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:49:58:574 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:49:58:574 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:49:58:574 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:49:58:590 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:49:58:590 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:49:58:590 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30023
+I 05/24/2018 11:49:58:590 00003534           HttpServer| GC Start.
+I 05/24/2018 11:49:58:590 00000e9c         QtMainWindow| WebView: URL changed to http://127.0.0.1:54292/app/Settings/home
+I 05/24/2018 11:49:58:590 00003534           HttpServer| GC End.
+I 05/24/2018 11:49:58:605 00003534           HttpServer| Process URI: '/public/bootstrap-3.3.7/css/bootstrap.min.css'
+I 05/24/2018 11:49:58:605 00003534           HttpServer| Process URI: '/public/css/style.css'
+I 05/24/2018 11:49:58:605 00003534           HttpServer| Process URI: '/public/jquery/jquery-3.1.1.min.js'
+I 05/24/2018 11:49:58:637 00000e9c               NewORM| calling useNewOrm
+I 05/24/2018 11:49:58:637 00003534           HttpServer| Process URI: '/public/images/iconBack.svg'
+I 05/24/2018 11:49:58:652 00003534           HttpServer| Process URI: '/public/images/iconSettings.svg'
+I 05/24/2018 11:49:58:684 00000e9c         QtMainWindow| Page load complete.
+I 05/24/2018 11:50:09:826 00003534           HttpServer| Process URI: '/app/Miner/index'
+I 05/24/2018 11:50:09:826 00003534                  APP| RHO serve: /app/Miner/index
+I 05/24/2018 11:50:09:826 00003534              RhoRuby| require_compiled: Miner/miner_controller
+I 05/24/2018 11:50:09:826 00003534                  APP| Params: {"workerId"=>"37f0f3"}
+I 05/24/2018 11:50:09:826 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Miner/index.erb
+I 05/24/2018 11:50:09:826 00003534           HttpServer| GC Start.
+I 05/24/2018 11:50:09:842 00003534           HttpServer| GC End.
+I 05/24/2018 11:50:37:170 00000e9c         QtMainWindow| WebView: loading...
+I 05/24/2018 11:50:37:170 00003534           HttpServer| Process URI: '/app/Settings/home'
+I 05/24/2018 11:50:37:170 00003534                  APP| RHO serve: /app/Settings/home
+E 05/24/2018 11:50:37:170 00003534              RhoRuby| require_compiled: error: can not find Settings/settings_controller
+I 05/24/2018 11:50:37:170 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/home.erb
+I 05/24/2018 11:50:37:170 00003534                  APP| eval_compiled_file : C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb
+I 05/24/2018 11:50:37:186 00003534 RHO SettingsController| Layout file: C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb. Content size: 30057
+I 05/24/2018 11:50:37:186 00003534           HttpServer| GC Start.
