@@ -1,0 +1,11 @@
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\bin\Release\netcoreapp2.0\MinerStatusChecker.deps.json
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\bin\Release\netcoreapp2.0\MinerStatusChecker.runtimeconfig.json
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\bin\Release\netcoreapp2.0\MinerStatusChecker.runtimeconfig.dev.json
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\bin\Release\netcoreapp2.0\MinerStatusChecker.dll
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\bin\Release\netcoreapp2.0\MinerStatusChecker.pdb
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\obj\Release\netcoreapp2.0\MinerStatusChecker.csproj.CoreCompileInputs.cache
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\obj\Release\netcoreapp2.0\MinerStatusChecker.AssemblyInfoInputs.cache
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\obj\Release\netcoreapp2.0\MinerStatusChecker.AssemblyInfo.cs
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\obj\Release\netcoreapp2.0\MinerStatusChecker.dll
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\obj\Release\netcoreapp2.0\MinerStatusChecker.pdb
+C:\Users\zc13224\source\repos\VSMinerWatcher\MinerStatusChecker\obj\Release\netcoreapp2.0\MinerStatusChecker.csprojResolveAssemblyReference.cache

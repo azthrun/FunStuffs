@@ -18,8 +18,8 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.dltk.javascript.ui.editor.JavascriptEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.dltk.javascript.ui.editor.JavascriptEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -29,26 +29,10 @@
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.dltk.javascript.ui.editor.JavascriptEditor" name="watcher.js" partName="watcher.js" path="C:/Users/zc13224/source/repos/MinerWatcher/public/js/watcher.js" title="watcher.js" tooltip="MinerWatcher/public/js/watcher.js" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MinerWatcher/public/js/watcher.js"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="584" selectionTopPixel="149"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="style.css" partName="style.css" path="C:/Users/zc13224/source/repos/MinerWatcher/public/css/style.css" title="style.css" tooltip="MinerWatcher/public/css/style.css" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MinerWatcher/public/css/style.css"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2515" selectionTopPixel="2419"/>
-</editor>
-<editor activePart="true" focus="true" id="rhogenwizard.editors.RubyEditor" name="layout.erb" partName="layout.erb" path="C:/Users/zc13224/source/repos/MinerWatcher/app/layout.erb" title="layout.erb" tooltip="MinerWatcher/app/layout.erb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MinerWatcher/app/layout.erb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1293" selectionTopPixel="0"/>
-</editor>
 </editors>
 <views>
 <view id="org.eclipse.egit.ui.RepositoriesView" partName="Git Repositories"/>
@@ -60,15 +44,15 @@
 </view>
 <view id="org.eclipse.search.ui.views.SearchView" partName="Search">
 <viewState isPinned="false">
-<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
 <view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
 </viewState>
 </view>
 <view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
 </views>
-<perspectives activePart="rhogenwizard.editors.RubyEditor" activePerspective="rhogenwizard.perspectives.RhostudioPerspective">
+<perspectives activePerspective="rhogenwizard.perspectives.RhostudioPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="rhogenwizard.perspectives.RhostudioPerspective" id="rhogenwizard.perspectives.RhostudioPerspective" label="RhoStudio"/>
 <alwaysOnActionSet id="rhostudio.actionSet"/>
@@ -114,7 +98,7 @@
 <layout>
 <mainWindow>
 <info folder="true" part="topLeft">
-<folder appearance="2" expanded="0">
+<folder appearance="2" expanded="2">
 <page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
@@ -126,7 +110,7 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.1328374" ratioLeft="250" ratioRight="1632" relationship="2" relative="topLeft"/>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@d3cc7" ratio="0.7496992" ratioLeft="1246" ratioRight="416" relationship="2" relative="org.eclipse.ui.editorss">
-<folder appearance="2" expanded="0">
+<folder appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
 <page content="org.eclipse.egit.ui.RepositoriesView" label="LabelNotFound"/>
@@ -139,169 +123,7 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory>
-<editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/MinerWatcher/app/Settings/home.erb"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/MinerWatcher/app/Miner/miner.rb"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/MinerWatcher/app/Miner/index.erb"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/MinerWatcher/app/Miner/miner_controller.rb"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/MinerWatcher/app/Settings/controller.rb"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.javascript.ui.editor.JavascriptEditor" path="/MinerWatcher/public/js/watcher.js"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/MinerWatcher/app/helpers/web_request_helper.rb"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/MinerWatcher/public/css/style.css"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/MinerWatcher/app/layout.erb"/>
-</editors>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="975" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1747" y="8"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="988" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1064" y="11"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="969" y="8"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="1495" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1417" y="0"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="778" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="2211" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="2603" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="2727" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="2904" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="3014" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="2581" y="15"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="826" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1387" y="9"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="918" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1433" y="11"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="1495" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="3169" y="0"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="1495" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="3113" y="0"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="1425" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="2508" y="0"/>
-</item>
-<item historyLabel="home.erb" index="0">
-<position info="not_deleted" x="8343" y="96"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="292" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1335" y="10"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="292" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1417" y="0"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="228" y="0"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="1043" y="0"/>
-</item>
-<item historyLabel="home.erb" index="0">
-<position info="not_deleted" x="7469" y="7"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="1043" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1610" y="7"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="1032" y="0"/>
-</item>
-<item historyLabel="home.erb" index="0">
-<position info="not_deleted" x="5470" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1049" y="0"/>
-</item>
-<item historyLabel="miner_controller.rb" index="3">
-<position info="not_deleted" x="288" y="0"/>
-</item>
-<item historyLabel="miner.rb" index="1">
-<position info="not_deleted" x="1049" y="0"/>
-</item>
-<item historyLabel="home.erb" index="0">
-<position info="not_deleted" x="5470" y="0"/>
-</item>
-<item historyLabel="index.erb" index="2">
-<position info="not_deleted" x="1032" y="0"/>
-</item>
-<item historyLabel="home.erb" index="0">
-<position info="not_deleted" x="5470" y="0"/>
-</item>
-<item historyLabel="controller.rb" index="4">
-<position info="not_deleted" x="212" y="0"/>
-</item>
-<item historyLabel="home.erb" index="0">
-<position info="not_deleted" x="5466" y="4"/>
-</item>
-<item historyLabel="watcher.js" index="5">
-<position info="not_deleted" x="933" y="0"/>
-</item>
-<item historyLabel="web_request_helper.rb" index="6">
-<position info="not_deleted" x="1847" y="0"/>
-</item>
-<item historyLabel="watcher.js" index="5">
-<position info="not_deleted" x="584" y="0"/>
-</item>
-<item historyLabel="style.css" index="7">
-<position info="not_deleted" x="2515" y="0"/>
-</item>
-<item active="true" historyLabel="layout.erb" index="8">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-</navigationHistory>
+<navigationHistory/>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
@@ -325,50 +147,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="layout.erb" tooltip="MinerWatcher/app/layout.erb">
-<persistable path="/MinerWatcher/app/layout.erb"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="miner_controller.rb" tooltip="MinerWatcher/app/Miner/miner_controller.rb">
-<persistable path="/MinerWatcher/app/Miner/miner_controller.rb"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="index.erb" tooltip="MinerWatcher/app/Miner/index.erb">
-<persistable path="/MinerWatcher/app/Miner/index.erb"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="wait.erb" tooltip="MinerWatcher/app/Settings/wait.erb">
-<persistable path="/MinerWatcher/app/Settings/wait.erb"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="rhoconfig.txt" tooltip="MinerWatcher/rhoconfig.txt">
-<persistable path="/MinerWatcher/rhoconfig.txt"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="setup.erb" tooltip="MinerWatcher/app/Settings/setup.erb">
-<persistable path="/MinerWatcher/app/Settings/setup.erb"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="index.erb" tooltip="MinerWatcher/app/index.erb">
-<persistable path="/MinerWatcher/app/index.erb"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="style.css" tooltip="MinerWatcher/public/css/style.css">
-<persistable path="/MinerWatcher/public/css/style.css"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="slick-theme.css" tooltip="MinerWatcher/public/js/plugins/slick/slick-theme.css">
-<persistable path="/MinerWatcher/public/js/plugins/slick/slick-theme.css"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="slick.css" tooltip="MinerWatcher/public/js/plugins/slick/slick.css">
-<persistable path="/MinerWatcher/public/js/plugins/slick/slick.css"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.javascript.ui.editor.JavascriptEditor" name="watcher.js" tooltip="MinerWatcher/public/js/watcher.js">
-<persistable path="/MinerWatcher/public/js/watcher.js"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="controller.rb" tooltip="MinerWatcher/app/Settings/controller.rb">
 <persistable path="/MinerWatcher/app/Settings/controller.rb"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="home.erb" tooltip="MinerWatcher/app/Settings/home.erb">
-<persistable path="/MinerWatcher/app/Settings/home.erb"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="settings.rb" tooltip="MinerWatcher/app/Settings/settings.rb">
 <persistable path="/MinerWatcher/app/Settings/settings.rb"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="web_request_helper.rb" tooltip="MinerWatcher/app/helpers/web_request_helper.rb">
-<persistable path="/MinerWatcher/app/helpers/web_request_helper.rb"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.javascript.ui.editor.JavascriptEditor" name="watcher.js" tooltip="MinerWatcher/public/js/watcher.js">
+<persistable path="/MinerWatcher/public/js/watcher.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.javascript.ui.editor.JavascriptEditor" name="navigator.js" tooltip="CivicsPracticeTest/public/js/navigator.js">
+<persistable path="/CivicsPracticeTest/public/js/navigator.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="index.erb" tooltip="CivicsPracticeTest/app/index.erb">
+<persistable path="/CivicsPracticeTest/app/index.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="style.css" tooltip="MinerWatcher/public/css/style.css">
+<persistable path="/MinerWatcher/public/css/style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="home.erb" tooltip="MinerWatcher/app/Settings/home.erb">
+<persistable path="/MinerWatcher/app/Settings/home.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RhodesEditor" name="build.yml" tooltip="MinerWatcher/build.yml">
+<persistable path="/MinerWatcher/build.yml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RhodesEditor" name="build.yml" tooltip="CivicsPracticeTest/build.yml">
+<persistable path="/CivicsPracticeTest/build.yml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="layout.erb" tooltip="CivicsPracticeTest/app/layout.erb">
+<persistable path="/CivicsPracticeTest/app/layout.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="navigation_controller.rb" tooltip="CivicsPracticeTest/app/Navigation/navigation_controller.rb">
+<persistable path="/CivicsPracticeTest/app/Navigation/navigation_controller.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="navigation.rb" tooltip="CivicsPracticeTest/app/Navigation/navigation.rb">
+<persistable path="/CivicsPracticeTest/app/Navigation/navigation.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="navigator.rb" tooltip="CivicsPracticeTest/app/Navigator/navigator.rb">
+<persistable path="/CivicsPracticeTest/app/Navigator/navigator.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="application.rb" tooltip="CivicsPracticeTest/app/application.rb">
+<persistable path="/CivicsPracticeTest/app/application.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="home.erb" tooltip="CivicsPracticeTest/app/Settings/home.erb">
+<persistable path="/CivicsPracticeTest/app/Settings/home.erb"/>
 </file>
 </mruList>
 </workbench>

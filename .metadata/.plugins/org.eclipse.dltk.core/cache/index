@@ -568,9 +568,6 @@
     <attributes name="indexed" location="2838196607/2139316840/353.idx"/>
   </entries>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Home/home.rb" timestamp="1526659694340" lastAccessTime="1526659695352"/>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/test/home_spec.rb" timestamp="1526659694345" lastAccessTime="1527192684344">
-    <attributes name="indexed" location="2838196607/3119616769/163.idx"/>
-  </entries>
   <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/helpers" timestamp="1526677317949" lastAccessTime="1527192684408">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/653507635/53.idx"/>
   </entries>
@@ -637,6 +634,4 @@
   <entries path="C:/Users/zc13224/source/repos/CivicsPracticeTest" timestamp="1527192051578" lastAccessTime="1527193555208">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/226374016/533.idx"/>
   </entries>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/settings.rb" timestamp="1527196051687" lastAccessTime="1527196052323"/>
-  <entries path="C:/Users/zc13224/source/repos/MinerWatcher/app/Settings/controller.rb" timestamp="1527197341481" lastAccessTime="1527197341973"/>
 </cache:CacheIndex>
