@@ -521,3 +521,21 @@ org.eclipse.dltk.core.ModelException: PANELOVERALL [in settings.rb [in app/Setti
 	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:168)
 !SUBENTRY 1 org.eclipse.dltk.core 4 969 2018-05-24 16:06:14.592
 !MESSAGE PANELOVERALL [in settings.rb [in app/Settings [in <project root> [in MinerWatcher]]]] does not exist
+!SESSION 2018-05-31 15:31:37.086 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\zc13224\source\repos
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2018-05-31 15:31:48.496
+!MESSAGE No search provider was registed. Tasks search is not available.
+!SESSION 2018-06-27 14:56:22.997 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\zc13224\source\repos
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2018-06-27 14:56:39.750
+!MESSAGE No search provider was registed. Tasks search is not available.

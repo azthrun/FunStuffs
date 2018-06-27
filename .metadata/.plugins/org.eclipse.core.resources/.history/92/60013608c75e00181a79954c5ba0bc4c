@@ -1,9 +1,0 @@
-require 'rho'
-require 'rho/rhocontroller'
-require 'rho/rhoerror'
-require 'helpers/browser_helper'
-require 'helpers/web_request_helper'
-
-class MinerController < Rho::RhoController
-  
-end

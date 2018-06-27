@@ -1,5 +1,0 @@
-<div style="text-align:center;">
-  <p><strong>Total Hash</strong>: <%= @worker.totalHash %> Mh/s</p>
-  <p>
-  <p>Rx/Tx: <%= @worker.rx %> / <%= @worker.tx %> kbps</p>
-</div>
